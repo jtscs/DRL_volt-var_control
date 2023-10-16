@@ -1,0 +1,1272 @@
+step = 2976: loss = 0.038252702864107264
+average_actor_loss = 1.5552683694949072 : average_critic_loss = 0.49108149831293413 : average_alpha_loss=-2.0080971643980763
+step = 5952: loss = -4.138135214967113
+average_actor_loss = 1.5400220142096601 : average_critic_loss = 0.34772453538232273 : average_alpha_loss=-6.025881762626351
+step = 5952: AverageReturn = -28281.251953, AverageEpisodeLength = 17476.000000
+step = 8924: loss = -8.222699269792754
+average_actor_loss = 1.5145066899133401 : average_critic_loss = 0.303776944700433 : average_alpha_loss=-10.040982898119161
+step = 11804: loss = -12.263766165905528
+average_actor_loss = 1.4841970944156249 : average_critic_loss = 0.2422518803117176 : average_alpha_loss=-13.99021513097816
+step = 11804: AverageReturn = -28773.080078, AverageEpisodeLength = 17476.000000
+step = 14780: loss = -16.13203578802847
+average_actor_loss = 1.6001735838350428 : average_critic_loss = 0.2098911743540998 : average_alpha_loss=-17.942100541566006
+step = 17660: loss = -20.123188691006767
+average_actor_loss = 1.574259142205119 : average_critic_loss = 0.1965381353213969 : average_alpha_loss=-21.89398595492045
+step = 17660: AverageReturn = -28112.648438, AverageEpisodeLength = 17476.000000
+step = 20636: loss = -24.132480082332446
+average_actor_loss = 1.5264254293294364 : average_critic_loss = 0.18696585954016737 : average_alpha_loss=-25.845871359430333
+step = 23612: loss = -28.20673572312119
+average_actor_loss = 1.4750036940138826 : average_critic_loss = 0.18080236827854507 : average_alpha_loss=-29.862541782599624
+step = 23612: AverageReturn = -27532.404297, AverageEpisodeLength = 17476.000000
+step = 26584: loss = -32.22567996619367
+average_actor_loss = 1.473670017430471 : average_critic_loss = 0.17716284274734045 : average_alpha_loss=-33.876512837442064
+step = 29556: loss = -36.236102328807476
+average_actor_loss = 1.4798955964288032 : average_critic_loss = 0.17479016881531373 : average_alpha_loss=-37.89078808600938
+step = 29556: AverageReturn = -27260.871094, AverageEpisodeLength = 17476.000000
+step = 32436: loss = -40.19390138917499
+average_actor_loss = 1.481325746782952 : average_critic_loss = 0.17102276233749258 : average_alpha_loss=-41.846249894301096
+step = 35408: loss = -44.149471139201886
+average_actor_loss = 1.4834541921500082 : average_critic_loss = 0.16878916137171143 : average_alpha_loss=-45.80171444663129
+step = 35408: AverageReturn = -26438.796875, AverageEpisodeLength = 17476.000000
+step = 38384: loss = -48.17754328250885
+average_actor_loss = 1.47717077405222 : average_critic_loss = 0.1673529626481155 : average_alpha_loss=-49.82206700437813
+step = 41264: loss = -52.134596319993335
+average_actor_loss = 1.4785877659916877 : average_critic_loss = 0.16705116668923034 : average_alpha_loss=-53.78023521105448
+step = 41264: AverageReturn = -26361.246094, AverageEpisodeLength = 17476.000000
+step = 44236: loss = -56.08842433092572
+average_actor_loss = 1.4822201701545459 : average_critic_loss = 0.16505532282057392 : average_alpha_loss=-57.73569977941295
+step = 47208: loss = -60.10559735355916
+average_actor_loss = 1.484420097732608 : average_critic_loss = 0.16333123231319208 : average_alpha_loss=-61.75334864702391
+step = 47208: AverageReturn = -26653.021484, AverageEpisodeLength = 17476.000000
+step = 50184: loss = -64.13115043153044
+average_actor_loss = 1.4816460273358771 : average_critic_loss = 0.1609048037339122 : average_alpha_loss=-65.7737012678577
+step = 53160: loss = -68.15266155683867
+average_actor_loss = 1.4842516745450676 : average_critic_loss = 0.15984415897088106 : average_alpha_loss=-69.7967574468223
+step = 53160: AverageReturn = -26498.679688, AverageEpisodeLength = 17476.000000
+step = 56040: loss = -72.10010698636373
+average_actor_loss = 1.4893656150334411 : average_critic_loss = 0.1598696016214995 : average_alpha_loss=-73.7493422375785
+step = 59012: loss = -76.04293231014287
+average_actor_loss = 1.4904450013290986 : average_critic_loss = 0.15888750411991234 : average_alpha_loss=-77.69226487006988
+step = 59012: AverageReturn = -26795.988281, AverageEpisodeLength = 17476.000000
+step = 61892: loss = -79.99610591994391
+average_actor_loss = 1.482050104190906 : average_critic_loss = 0.15701638777585078 : average_alpha_loss=-81.63517242537604
+step = 64868: loss = -83.94526328835435
+average_actor_loss = 1.4792880133515405 : average_critic_loss = 0.1562237863213585 : average_alpha_loss=-85.58077504557949
+step = 64868: AverageReturn = -26502.828125, AverageEpisodeLength = 17476.000000
+step = 67844: loss = -87.9549275393127
+average_actor_loss = 1.4804019450500447 : average_critic_loss = 0.15573010699553114 : average_alpha_loss=-89.59105967449885
+step = 70816: loss = -91.96659897025148
+average_actor_loss = 1.4778559125689126 : average_critic_loss = 0.15419434215296887 : average_alpha_loss=-93.59864912636347
+step = 70816: AverageReturn = -26351.525391, AverageEpisodeLength = 17476.000000
+step = 73792: loss = -95.98400951713644
+average_actor_loss = 1.4692515294638373 : average_critic_loss = 0.15297765431735383 : average_alpha_loss=-97.60623869844662
+step = 76672: loss = -99.94461011886597
+average_actor_loss = 1.4560862628950013 : average_critic_loss = 0.1511449948910417 : average_alpha_loss=-101.5518413066864
+step = 76672: AverageReturn = -26389.601562, AverageEpisodeLength = 17476.000000
+step = 79648: loss = -103.89106794070172
+average_actor_loss = 1.4569364631528496 : average_critic_loss = 0.1494396195010913 : average_alpha_loss=-105.49744388108613
+step = 82528: loss = -107.83796181413862
+average_actor_loss = 1.457598046751486 : average_critic_loss = 0.14748665015730594 : average_alpha_loss=-109.44304655128055
+step = 82528: AverageReturn = -26506.802734, AverageEpisodeLength = 17476.000000
+step = 85504: loss = -111.78410279622642
+average_actor_loss = 1.4569832454685883 : average_critic_loss = 0.1475630353019643 : average_alpha_loss=-113.38864912268936
+step = 88480: loss = -115.79418086492888
+average_actor_loss = 1.4570803209258023 : average_critic_loss = 0.14767257384555313 : average_alpha_loss=-117.39893376442694
+step = 88480: AverageReturn = -26275.435547, AverageEpisodeLength = 17476.000000
+step = 91452: loss = -119.80448267950825
+average_actor_loss = 1.4552232343528024 : average_critic_loss = 0.14681724331831789 : average_alpha_loss=-121.40652327967524
+step = 94428: loss = -123.81550539180796
+average_actor_loss = 1.452352198661976 : average_critic_loss = 0.1462552451718879 : average_alpha_loss=-125.41411278068378
+step = 94428: AverageReturn = -26185.988281, AverageEpisodeLength = 17476.000000
+step = 97400: loss = -127.82274273683694
+average_actor_loss = 1.4531001371618555 : average_critic_loss = 0.14585954762624218 : average_alpha_loss=-129.42170241447027
+step = 100376: loss = -131.83338129392234
+average_actor_loss = 1.4495497533791168 : average_critic_loss = 0.1463608583560594 : average_alpha_loss=-133.4292919405045
+step = 100376: AverageReturn = -26276.976562, AverageEpisodeLength = 17476.000000
+step = 103352: loss = -135.83983355183756
+average_actor_loss = 1.4538994801220715 : average_critic_loss = 0.1458435164419033 : average_alpha_loss=-137.43957651302378
+step = 106328: loss = -139.85052299499512
+average_actor_loss = 1.4535544020354108 : average_critic_loss = 0.14578388512925675 : average_alpha_loss=-141.44986112143403
+step = 106328: AverageReturn = -26320.849609, AverageEpisodeLength = 17476.000000
+step = 109304: loss = -143.86781733010406
+average_actor_loss = 1.4550890342923262 : average_critic_loss = 0.1467823446728289 : average_alpha_loss=-145.4696887590552
+step = 112276: loss = -147.89757812520537
+average_actor_loss = 1.4576884808161699 : average_critic_loss = 0.14730293340078512 : average_alpha_loss=-149.5025695965075
+step = 112276: AverageReturn = -26227.507812, AverageEpisodeLength = 17476.000000
+step = 115252: loss = -151.93240316965247
+average_actor_loss = 1.4575233265597334 : average_critic_loss = 0.1457586638874785 : average_alpha_loss=-153.53568513931768
+step = 118132: loss = -155.90468525886536
+average_actor_loss = 1.4573150740315517 : average_critic_loss = 0.1444186912332144 : average_alpha_loss=-157.5064189751943
+step = 118132: AverageReturn = -26257.365234, AverageEpisodeLength = 17476.000000
+step = 121108: loss = -159.87460935243996
+average_actor_loss = 1.4593039807533064 : average_critic_loss = 0.14323934558428503 : average_alpha_loss=-161.47715285003827
+step = 124084: loss = -163.90982515068464
+average_actor_loss = 1.4600651765702872 : average_critic_loss = 0.14309040628754163 : average_alpha_loss=-165.51298069697555
+step = 124084: AverageReturn = -26247.212891, AverageEpisodeLength = 17476.000000
+step = 127060: loss = -167.941465567517
+average_actor_loss = 1.4638318984659129 : average_critic_loss = 0.14351107358622053 : average_alpha_loss=-169.54880855416738
+step = 130036: loss = -171.97357749426237
+average_actor_loss = 1.4671468789218574 : average_critic_loss = 0.14391210076639488 : average_alpha_loss=-173.58463638059555
+step = 130036: AverageReturn = -26221.867188, AverageEpisodeLength = 17476.000000
+step = 132916: loss = -175.94408486684162
+average_actor_loss = 1.4686263792216778 : average_critic_loss = 0.14265880419148338 : average_alpha_loss=-177.55537028842502
+step = 135888: loss = -179.9080446636051
+average_actor_loss = 1.473290345108846 : average_critic_loss = 0.14205683088418933 : average_alpha_loss=-181.52339167742517
+step = 135888: AverageReturn = -26141.232422, AverageEpisodeLength = 17476.000000
+step = 138864: loss = -183.9386709069693
+average_actor_loss = 1.4757295587771042 : average_critic_loss = 0.14210671508905068 : average_alpha_loss=-185.55650728492327
+step = 141744: loss = -187.90745292769537
+average_actor_loss = 1.4771599295652575 : average_critic_loss = 0.142628153716214 : average_alpha_loss=-189.5272410445743
+step = 141744: AverageReturn = -26302.787109, AverageEpisodeLength = 17476.000000
+step = 144720: loss = -191.87825007592477
+average_actor_loss = 1.477664088289584 : average_critic_loss = 0.14206077139173703 : average_alpha_loss=-193.4979749597529
+step = 147696: loss = -195.914503805099
+average_actor_loss = 1.477493612836766 : average_critic_loss = 0.14180560717709684 : average_alpha_loss=-197.53380285283572
+step = 147696: AverageReturn = -26152.636719, AverageEpisodeLength = 17476.000000
+step = 150668: loss = -199.94523594934557
+average_actor_loss = 1.4794976730125269 : average_critic_loss = 0.14218485090395241 : average_alpha_loss=-201.56691841546493
+step = 153644: loss = -203.98207104077903
+average_actor_loss = 1.4775084019989095 : average_critic_loss = 0.14045473460298313 : average_alpha_loss=-205.60003396003478
+step = 153644: AverageReturn = -26172.148438, AverageEpisodeLength = 17476.000000
+step = 156524: loss = -207.95487736596002
+average_actor_loss = 1.4762342743989494 : average_critic_loss = 0.13965616572855247 : average_alpha_loss=-209.57076768875123
+step = 159496: loss = -211.92265566778374
+average_actor_loss = 1.4769700192426447 : average_critic_loss = 0.1391637340303345 : average_alpha_loss=-213.5387893512464
+step = 159496: AverageReturn = -26312.250000, AverageEpisodeLength = 17476.000000
+step = 162376: loss = -215.89318158361647
+average_actor_loss = 1.4752630348006883 : average_critic_loss = 0.13836646096573935 : average_alpha_loss=-217.50681099361844
+step = 165352: loss = -219.86462104961436
+average_actor_loss = 1.4755629972424558 : average_critic_loss = 0.13736106727963254 : average_alpha_loss=-221.47754492810978
+step = 165352: AverageReturn = -26193.546875, AverageEpisodeLength = 17476.000000
+step = 168324: loss = -223.89919657341403
+average_actor_loss = 1.4745559379518594 : average_critic_loss = 0.1369078479416438 : average_alpha_loss=-225.5106603948457
+step = 171296: loss = -227.93107248154817
+average_actor_loss = 1.473586451317388 : average_critic_loss = 0.136404697744434 : average_alpha_loss=-229.54106379389603
+step = 171296: AverageReturn = -26200.597656, AverageEpisodeLength = 17476.000000
+step = 174176: loss = -231.9008618036906
+average_actor_loss = 1.4728417358050743 : average_critic_loss = 0.13538200337853695 : average_alpha_loss=-233.50908536381192
+step = 177056: loss = -235.80927041371663
+average_actor_loss = 1.4706958960741758 : average_critic_loss = 0.1347588184212024 : average_alpha_loss=-237.41472511291505
+step = 177056: AverageReturn = -26162.132812, AverageEpisodeLength = 17476.000000
+step = 180032: loss = -239.77818814657067
+average_actor_loss = 1.4730795692772634 : average_critic_loss = 0.13419124926440418 : average_alpha_loss=-241.38545904877364
+step = 183008: loss = -243.81551415945893
+average_actor_loss = 1.4718661524996322 : average_critic_loss = 0.13390649190442938 : average_alpha_loss=-245.4212866906197
+step = 183008: AverageReturn = -26172.800781, AverageEpisodeLength = 17476.000000
+step = 185984: loss = -247.84716824562318
+average_actor_loss = 1.4759039423799003 : average_critic_loss = 0.13404234015302713 : average_alpha_loss=-249.45711457857522
+step = 188864: loss = -251.81963569323221
+average_actor_loss = 1.4749745232363543 : average_critic_loss = 0.13323813680455918 : average_alpha_loss=-253.4278484079573
+step = 188864: AverageReturn = -26222.289062, AverageEpisodeLength = 17476.000000
+step = 191840: loss = -255.79526316735053
+average_actor_loss = 1.470784830790694 : average_critic_loss = 0.13253431918440006 : average_alpha_loss=-257.3985821918775
+step = 194720: loss = -259.766081682841
+average_actor_loss = 1.4717837531947426 : average_critic_loss = 0.13145095103472057 : average_alpha_loss=-261.3693163871765
+step = 194720: AverageReturn = -26138.599609, AverageEpisodeLength = 17476.000000
+step = 197696: loss = -263.73719459451655
+average_actor_loss = 1.4718689975398842 : average_critic_loss = 0.1309862576164706 : average_alpha_loss=-265.3400501640894
+step = 200672: loss = -267.77348356349495
+average_actor_loss = 1.47189983028558 : average_critic_loss = 0.13049469790571638 : average_alpha_loss=-269.37587802640854
+step = 200672: AverageReturn = -26225.392578, AverageEpisodeLength = 17476.000000
+step = 203648: loss = -271.8099240846531
+average_actor_loss = 1.4717822640493352 : average_critic_loss = 0.12999928161822338 : average_alpha_loss=-273.411705622109
+step = 206528: loss = -275.7831325954861
+average_actor_loss = 1.4702820347415075 : average_critic_loss = 0.12902495534831865 : average_alpha_loss=-277.3824394332038
+step = 206528: AverageReturn = -26158.503906, AverageEpisodeLength = 17476.000000
+step = 209408: loss = -279.68925839530095
+average_actor_loss = 1.4707205728938182 : average_critic_loss = 0.12810037634335458 : average_alpha_loss=-281.2880794207255
+step = 212288: loss = -283.59576506084863
+average_actor_loss = 1.470221123471856 : average_critic_loss = 0.12773299646408606 : average_alpha_loss=-285.19371911154855
+step = 212288: AverageReturn = -26143.070312, AverageEpisodeLength = 17476.000000
+step = 215168: loss = -287.486709245046
+average_actor_loss = 1.4701378107484844 : average_critic_loss = 0.12741747908811601 : average_alpha_loss=-289.08426468107433
+step = 218048: loss = -291.34565781487356
+average_actor_loss = 1.4697802113162146 : average_critic_loss = 0.126208848423428 : average_alpha_loss=-292.9416469468011
+step = 218048: AverageReturn = -26191.689453, AverageEpisodeLength = 17476.000000
+step = 221024: loss = -295.2641457075714
+average_actor_loss = 1.4718661147259897 : average_critic_loss = 0.12610691118364534 : average_alpha_loss=-296.862118587699
+step = 224000: loss = -299.2508937774166
+average_actor_loss = 1.4708271342259582 : average_critic_loss = 0.12513912851942244 : average_alpha_loss=-300.8468597063454
+step = 224000: AverageReturn = -26218.380859, AverageEpisodeLength = 17476.000000
+step = 226976: loss = -303.2356857484387
+average_actor_loss = 1.4713291742548507 : average_critic_loss = 0.12458633045135166 : average_alpha_loss=-304.83160113262875
+step = 229856: loss = -307.1559084786309
+average_actor_loss = 1.4719854977395799 : average_critic_loss = 0.12417840770859685 : average_alpha_loss=-308.7520727687412
+step = 229856: AverageReturn = -26146.574219, AverageEpisodeLength = 17476.000000
+step = 232736: loss = -311.012048541175
+average_actor_loss = 1.4721090731521447 : average_critic_loss = 0.12411609458633595 : average_alpha_loss=-312.6082738346524
+step = 235712: loss = -314.92960886801444
+average_actor_loss = 1.474470975618529 : average_critic_loss = 0.12466580843082278 : average_alpha_loss=-316.52874529233543
+step = 235712: AverageReturn = -26168.601562, AverageEpisodeLength = 17476.000000
+step = 238592: loss = -318.8480120764838
+average_actor_loss = 1.4765367368857065 : average_critic_loss = 0.12466794058370094 : average_alpha_loss=-320.44921680026584
+step = 241568: loss = -322.7657982610887
+average_actor_loss = 1.4792668947609522 : average_critic_loss = 0.12462290758216973 : average_alpha_loss=-324.36968826991256
+step = 241568: AverageReturn = -26230.072266, AverageEpisodeLength = 17476.000000
+step = 244544: loss = -326.7516905569261
+average_actor_loss = 1.4774554300131977 : average_critic_loss = 0.12528344400737795 : average_alpha_loss=-328.35442956288654
+step = 247424: loss = -330.677335135142
+average_actor_loss = 1.4733700869397985 : average_critic_loss = 0.12419602658547875 : average_alpha_loss=-332.2749009344313
+step = 247424: AverageReturn = -26156.984375, AverageEpisodeLength = 17476.000000
+step = 250304: loss = -334.53415869606863
+average_actor_loss = 1.4729603694130977 : average_critic_loss = 0.12398336197818732 : average_alpha_loss=-336.1311023288303
+step = 253280: loss = -338.45167446136475
+average_actor_loss = 1.4759820713711682 : average_critic_loss = 0.1239169532788657 : average_alpha_loss=-340.05157366106585
+step = 253280: AverageReturn = -26121.490234, AverageEpisodeLength = 17476.000000
+step = 256256: loss = -342.4356302445935
+average_actor_loss = 1.47644927929486 : average_critic_loss = 0.1242356469519236 : average_alpha_loss=-344.03631509760373
+step = 259228: loss = -346.4195175273582
+average_actor_loss = 1.4756310884195254 : average_critic_loss = 0.12323011758249669 : average_alpha_loss=-348.0183787801545
+step = 259228: AverageReturn = -26092.513672, AverageEpisodeLength = 17476.000000
+step = 262200: loss = -350.402774415459
+average_actor_loss = 1.471533293639025 : average_critic_loss = 0.12345629441645874 : average_alpha_loss=-351.99776427935143
+step = 265080: loss = -354.32167920006646
+average_actor_loss = 1.4712256935735544 : average_critic_loss = 0.1226529348977945 : average_alpha_loss=-355.91555778715343
+step = 265080: AverageReturn = -26178.046875, AverageEpisodeLength = 17476.000000
+step = 268056: loss = -358.2428939163044
+average_actor_loss = 1.4706038642394286 : average_critic_loss = 0.12253128722940962 : average_alpha_loss=-359.8360289091705
+step = 271032: loss = -362.23194269980155
+average_actor_loss = 1.4665110690459129 : average_critic_loss = 0.1223166728647606 : average_alpha_loss=-363.82077034570835
+step = 271032: AverageReturn = -26211.414062, AverageEpisodeLength = 17476.000000
+step = 274008: loss = -366.21712765642394
+average_actor_loss = 1.4665253255716575 : average_critic_loss = 0.121858303850737 : average_alpha_loss=-367.8055116181732
+step = 276888: loss = -370.13781293233234
+average_actor_loss = 1.4660740679750839 : average_critic_loss = 0.12209541629223773 : average_alpha_loss=-371.7259828355577
+step = 276888: AverageReturn = -26137.462891, AverageEpisodeLength = 17476.000000
+step = 279864: loss = -374.0539133728191
+average_actor_loss = 1.470613771308494 : average_critic_loss = 0.12192717382574193 : average_alpha_loss=-375.64645425734983
+step = 282744: loss = -377.97484000523883
+average_actor_loss = 1.4705061496959793 : average_critic_loss = 0.12157921775813318 : average_alpha_loss=-379.5669257799784
+step = 282744: AverageReturn = -26145.335938, AverageEpisodeLength = 17476.000000
+step = 285720: loss = -381.89383922084687
+average_actor_loss = 1.472543157396778 : average_critic_loss = 0.12101459488653207 : average_alpha_loss=-383.48739712212677
+step = 288600: loss = -385.8146777153015
+average_actor_loss = 1.472389709783925 : average_critic_loss = 0.12080133344150251 : average_alpha_loss=-387.4078686290317
+step = 288600: AverageReturn = -26152.974609, AverageEpisodeLength = 17476.000000
+step = 291576: loss = -389.73596814883655
+average_actor_loss = 1.4719682715192277 : average_critic_loss = 0.1204039209387115 : average_alpha_loss=-391.32833995614
+step = 294456: loss = -393.65763190587364
+average_actor_loss = 1.4710336451729138 : average_critic_loss = 0.12014593990105722 : average_alpha_loss=-395.2488115310669
+step = 294456: AverageReturn = -26186.626953, AverageEpisodeLength = 17476.000000
+step = 297432: loss = -397.5781284762967
+average_actor_loss = 1.4718688219705576 : average_critic_loss = 0.11928556007032673 : average_alpha_loss=-399.16928281066237
+step = 300404: loss = -401.559850608035
+average_actor_loss = 1.4723486007463242 : average_critic_loss = 0.11914691366606253 : average_alpha_loss=-403.151346260574
+step = 300404: AverageReturn = -26193.251953, AverageEpisodeLength = 17476.000000
+step = 303284: loss = -405.47916124131945
+average_actor_loss = 1.4716789612753525 : average_critic_loss = 0.11829955621570763 : average_alpha_loss=-407.0691397772895
+step = 306260: loss = -409.4000155951387
+average_actor_loss = 1.4718701424057126 : average_critic_loss = 0.11772518056715207 : average_alpha_loss=-410.98961093861567
+step = 306260: AverageReturn = -26141.767578, AverageEpisodeLength = 17476.000000
+step = 309236: loss = -413.3840967814128
+average_actor_loss = 1.4723171343005472 : average_critic_loss = 0.11793854236552712 : average_alpha_loss=-414.9743523443899
+step = 312212: loss = -417.36590761779456
+average_actor_loss = 1.4740833534348396 : average_critic_loss = 0.11910296329647622 : average_alpha_loss=-418.95909379118234
+step = 312212: AverageReturn = -26120.726562, AverageEpisodeLength = 17476.000000
+step = 315092: loss = -421.28455619812013
+average_actor_loss = 1.4760199329091443 : average_critic_loss = 0.1189888820466068 : average_alpha_loss=-422.8795652283562
+step = 317972: loss = -425.1423353936937
+average_actor_loss = 1.4751229934394359 : average_critic_loss = 0.11830804705516332 : average_alpha_loss=-426.73576651679144
+step = 317972: AverageReturn = -26180.611328, AverageEpisodeLength = 17476.000000
+step = 320948: loss = -429.06206399650983
+average_actor_loss = 1.4757950157327677 : average_critic_loss = 0.11837811056794899 : average_alpha_loss=-430.65623775605235
+step = 323828: loss = -432.9823820008172
+average_actor_loss = 1.476665304104487 : average_critic_loss = 0.1176623465338101 : average_alpha_loss=-434.5767094506158
+step = 323828: AverageReturn = -26148.144531, AverageEpisodeLength = 17476.000000
+step = 326804: loss = -436.9019729450185
+average_actor_loss = 1.4778201028063733 : average_critic_loss = 0.11738793799022754 : average_alpha_loss=-438.497180907957
+step = 329776: loss = -440.8855548411969
+average_actor_loss = 1.4768231525555915 : average_critic_loss = 0.11686637981332247 : average_alpha_loss=-442.47924443241084
+step = 329776: AverageReturn = -26125.273438, AverageEpisodeLength = 17476.000000
+step = 332752: loss = -444.867666193234
+average_actor_loss = 1.4765904198090236 : average_critic_loss = 0.11705125629230934 : average_alpha_loss=-446.46130804861747
+step = 335728: loss = -448.849990506326
+average_actor_loss = 1.4784393205998405 : average_critic_loss = 0.11761991105352838 : average_alpha_loss=-450.4460493005732
+step = 335728: AverageReturn = -26212.080078, AverageEpisodeLength = 17476.000000
+step = 338700: loss = -452.83130164165675
+average_actor_loss = 1.4793515762923384 : average_critic_loss = 0.11745929373315414 : average_alpha_loss=-454.4281125793868
+step = 341672: loss = -456.81193220053837
+average_actor_loss = 1.4786278035887799 : average_critic_loss = 0.11693851588592234 : average_alpha_loss=-458.40749818126733
+step = 341672: AverageReturn = -26202.820312, AverageEpisodeLength = 17476.000000
+step = 344552: loss = -460.72960970136853
+average_actor_loss = 1.478779718404015 : average_critic_loss = 0.11690264475894058 : average_alpha_loss=-462.32529201507566
+step = 347528: loss = -464.649880942478
+average_actor_loss = 1.4793614634182504 : average_critic_loss = 0.11652045232814646 : average_alpha_loss=-466.2457630198489
+step = 347528: AverageReturn = -26161.037109, AverageEpisodeLength = 17476.000000
+step = 350408: loss = -468.56809068255956
+average_actor_loss = 1.4816109655217993 : average_critic_loss = 0.11653294265787635 : average_alpha_loss=-470.16623440848457
+step = 353384: loss = -472.4915062381375
+average_actor_loss = 1.4794174874982526 : average_critic_loss = 0.11578199649930641 : average_alpha_loss=-474.08670587437126
+step = 353384: AverageReturn = -26160.062500, AverageEpisodeLength = 17476.000000
+step = 356264: loss = -476.4102685610453
+average_actor_loss = 1.4809178541103998 : average_critic_loss = 0.11599093171147008 : average_alpha_loss=-478.0071772257487
+step = 359144: loss = -480.26783917744956
+average_actor_loss = 1.4804867692705659 : average_critic_loss = 0.11505274989952644 : average_alpha_loss=-481.8633785353767
+step = 359144: AverageReturn = -26161.197266, AverageEpisodeLength = 17476.000000
+step = 362120: loss = -484.18530135000907
+average_actor_loss = 1.4833776213789498 : average_critic_loss = 0.11517115996810057 : average_alpha_loss=-485.78384988025954
+step = 365096: loss = -488.16955372595015
+average_actor_loss = 1.4837286120621107 : average_critic_loss = 0.11530894502717 : average_alpha_loss=-489.7685913475611
+step = 365096: AverageReturn = -26236.138672, AverageEpisodeLength = 17476.000000
+step = 368072: loss = -492.15464221790273
+average_actor_loss = 1.4836028539124997 : average_critic_loss = 0.11508721190564815 : average_alpha_loss=-493.75333243544384
+step = 371048: loss = -496.1387981907014
+average_actor_loss = 1.4837184640108256 : average_critic_loss = 0.1155568868227263 : average_alpha_loss=-497.73807391299994
+step = 371048: AverageReturn = -26178.341797, AverageEpisodeLength = 17476.000000
+step = 374024: loss = -500.1240462333925
+average_actor_loss = 1.4828131919506418 : average_critic_loss = 0.11595557856383504 : average_alpha_loss=-501.72281551361084
+step = 376904: loss = -504.04329249064125
+average_actor_loss = 1.4842179874579111 : average_critic_loss = 0.11577638555318118 : average_alpha_loss=-505.64328678978814
+step = 376904: AverageReturn = -26201.265625, AverageEpisodeLength = 17476.000000
+step = 379784: loss = -507.89919747246637
+average_actor_loss = 1.4845784556534556 : average_critic_loss = 0.11571178728611105 : average_alpha_loss=-509.499487929874
+step = 382756: loss = -511.8164083960881
+average_actor_loss = 1.484866653244396 : average_critic_loss = 0.11600607368107359 : average_alpha_loss=-513.4172818477831
+step = 382756: AverageReturn = -26175.396484, AverageEpisodeLength = 17476.000000
+step = 385728: loss = -515.7969618703603
+average_actor_loss = 1.4838552932238676 : average_critic_loss = 0.11584917544406083 : average_alpha_loss=-517.396667090271
+step = 388704: loss = -519.7788240371212
+average_actor_loss = 1.48369376838047 : average_critic_loss = 0.11621365823122042 : average_alpha_loss=-521.3787313686904
+step = 388704: AverageReturn = -26164.888672, AverageEpisodeLength = 17476.000000
+step = 391584: loss = -523.6981112162272
+average_actor_loss = 1.4850912322186762 : average_critic_loss = 0.11600122433673177 : average_alpha_loss=-525.2992026435004
+step = 394560: loss = -527.6191876934421
+average_actor_loss = 1.484530305549983 : average_critic_loss = 0.11595662918082007 : average_alpha_loss=-529.2196739565942
+step = 394560: AverageReturn = -26237.544922, AverageEpisodeLength = 17476.000000
+step = 397532: loss = -531.6007969523824
+average_actor_loss = 1.4851041287384315 : average_critic_loss = 0.11583612826157708 : average_alpha_loss=-533.2017371895175
+step = 400508: loss = -535.5842847721551
+average_actor_loss = 1.4840237045640587 : average_critic_loss = 0.11549360037190459 : average_alpha_loss=-537.1838017535466
+step = 400508: AverageReturn = -26143.001953, AverageEpisodeLength = 17476.000000
+step = 403484: loss = -539.5688693754134
+average_actor_loss = 1.4841128169528899 : average_critic_loss = 0.1155595154781896 : average_alpha_loss=-541.1685418569914
+step = 406460: loss = -543.5514315738473
+average_actor_loss = 1.485896719038807 : average_critic_loss = 0.115955094378742 : average_alpha_loss=-545.1532829038558
+step = 406460: AverageReturn = -26185.914062, AverageEpisodeLength = 17476.000000
+step = 409436: loss = -547.5390145496656
+average_actor_loss = 1.4836064491781495 : average_critic_loss = 0.11540345993313578 : average_alpha_loss=-549.1380252838135
+step = 412316: loss = -551.4601596832275
+average_actor_loss = 1.4833227211816444 : average_critic_loss = 0.11501419391327848 : average_alpha_loss=-553.0584960301717
+step = 412316: AverageReturn = -26145.656250, AverageEpisodeLength = 17476.000000
+step = 415292: loss = -555.3789342449558
+average_actor_loss = 1.4847448591984087 : average_critic_loss = 0.11528746620751917 : average_alpha_loss=-556.9789669898248
+step = 418172: loss = -559.3009815216064
+average_actor_loss = 1.4839513572553793 : average_critic_loss = 0.11450637340700874 : average_alpha_loss=-560.899439409044
+step = 418172: AverageReturn = -26152.441406, AverageEpisodeLength = 17476.000000
+step = 421052: loss = -563.1588503943549
+average_actor_loss = 1.4828056694732772 : average_critic_loss = 0.1139844864477507 : average_alpha_loss=-564.7556407292684
+step = 423932: loss = -567.0142747667101
+average_actor_loss = 1.4837554309103225 : average_critic_loss = 0.11381109793566996 : average_alpha_loss=-568.6118412441677
+step = 423932: AverageReturn = -26175.886719, AverageEpisodeLength = 17476.000000
+step = 426812: loss = -570.8716725879245
+average_actor_loss = 1.4829373964005046 : average_critic_loss = 0.11343309349483914 : average_alpha_loss=-572.4680424584283
+step = 429692: loss = -574.7431071599325
+average_actor_loss = 1.4843070167634222 : average_critic_loss = 0.11370779160772347 : average_alpha_loss=-576.3411223941379
+step = 429692: AverageReturn = -26137.224609, AverageEpisodeLength = 17476.000000
+step = 432668: loss = -578.7560092967044
+average_actor_loss = 1.4841318687283864 : average_critic_loss = 0.11343306282244783 : average_alpha_loss=-580.3535735427693
+step = 435644: loss = -582.8452865846696
+average_actor_loss = 1.4823159177697474 : average_critic_loss = 0.1128850675548517 : average_alpha_loss=-584.4404875437418
+step = 435644: AverageReturn = -26154.275391, AverageEpisodeLength = 17476.000000
+step = 438524: loss = -586.8677684360081
+average_actor_loss = 1.4810146908379263 : average_critic_loss = 0.11270067000554668 : average_alpha_loss=-588.4614837222629
+step = 441496: loss = -590.8883377629687
+average_actor_loss = 1.4784456214705837 : average_critic_loss = 0.11295087454266454 : average_alpha_loss=-592.4797340896216
+step = 441496: AverageReturn = -26142.285156, AverageEpisodeLength = 17476.000000
+step = 444472: loss = -594.9703461841871
+average_actor_loss = 1.4800325156620113 : average_critic_loss = 0.1135227846567549 : average_alpha_loss=-596.5639016346265
+step = 447352: loss = -598.9892456902398
+average_actor_loss = 1.482864932012227 : average_critic_loss = 0.11278736628333313 : average_alpha_loss=-600.5848977618747
+step = 447352: AverageReturn = -26126.412109, AverageEpisodeLength = 17476.000000
+step = 450232: loss = -602.9436812506782
+average_actor_loss = 1.4833156534367138 : average_critic_loss = 0.11297895144671202 : average_alpha_loss=-604.5399758868747
+step = 453112: loss = -606.8998735427856
+average_actor_loss = 1.4825622690220674 : average_critic_loss = 0.11261814799314986 : average_alpha_loss=-608.4950539694892
+step = 453112: AverageReturn = -26102.544922, AverageEpisodeLength = 17476.000000
+step = 455992: loss = -610.8540931489732
+average_actor_loss = 1.4832469462520546 : average_critic_loss = 0.11279246254513661 : average_alpha_loss=-612.4501327938503
+step = 458968: loss = -614.8743433183239
+average_actor_loss = 1.4839719273951104 : average_critic_loss = 0.11281303916206603 : average_alpha_loss=-616.4711292020736
+step = 458968: AverageReturn = -26128.654297, AverageEpisodeLength = 17476.000000
+step = 461944: loss = -618.9600256437897
+average_actor_loss = 1.4849885368459328 : average_critic_loss = 0.113028353330509 : average_alpha_loss=-620.5580432645736
+step = 464824: loss = -622.9808491388957
+average_actor_loss = 1.4851768985804585 : average_critic_loss = 0.11301296199154523 : average_alpha_loss=-624.5790392981635
+step = 464824: AverageReturn = -26118.218750, AverageEpisodeLength = 17476.000000
+step = 467800: loss = -627.0034133336877
+average_actor_loss = 1.4838112225375508 : average_critic_loss = 0.11281070261142187 : average_alpha_loss=-628.6000354110554
+step = 470776: loss = -631.0932412916615
+average_actor_loss = 1.4818767331220128 : average_critic_loss = 0.11183165713784195 : average_alpha_loss=-632.6869502118839
+step = 470776: AverageReturn = -26146.570312, AverageEpisodeLength = 17476.000000
+step = 473752: loss = -635.1796731436125
+average_actor_loss = 1.482296055523298 : average_critic_loss = 0.11189482365334306 : average_alpha_loss=-636.7738645204934
+step = 476728: loss = -639.2658982840917
+average_actor_loss = 1.4832927107170064 : average_critic_loss = 0.11158752704780268 : average_alpha_loss=-640.8607786035025
+step = 476728: AverageReturn = -26084.787109, AverageEpisodeLength = 17476.000000
+step = 479608: loss = -643.2880930370754
+average_actor_loss = 1.4822902159144482 : average_critic_loss = 0.11139084352956465 : average_alpha_loss=-644.8817751354642
+step = 482584: loss = -647.3084464534636
+average_actor_loss = 1.4827774199907497 : average_critic_loss = 0.1115466591661736 : average_alpha_loss=-648.9027712216941
+step = 482584: AverageReturn = -26076.490234, AverageEpisodeLength = 17476.000000
+step = 485560: loss = -651.3953215896443
+average_actor_loss = 1.4827670342419097 : average_critic_loss = 0.11159716812413066 : average_alpha_loss=-652.9896857148858
+step = 488536: loss = -655.4794445242933
+average_actor_loss = 1.4851744345599605 : average_critic_loss = 0.11198084785162361 : average_alpha_loss=-657.0766001260408
+step = 488536: AverageReturn = -26247.916016, AverageEpisodeLength = 17476.000000
+step = 491416: loss = -659.5018955018785
+average_actor_loss = 1.4843320683472687 : average_critic_loss = 0.11136841668178224 : average_alpha_loss=-661.0975961049397
+step = 494392: loss = -663.5230341880552
+average_actor_loss = 1.4841355471120727 : average_critic_loss = 0.11142269149422646 : average_alpha_loss=-665.1185922315044
+step = 494392: AverageReturn = -26104.322266, AverageEpisodeLength = 17476.000000
+step = 497368: loss = -667.610400907455
+average_actor_loss = 1.4838878624541785 : average_critic_loss = 0.11121741523064914 : average_alpha_loss=-669.2055063555317
+step = 500340: loss = -671.6949412575641
+average_actor_loss = 1.4836335796286249 : average_critic_loss = 0.11109892229272572 : average_alpha_loss=-673.2896743096702
+step = 500340: AverageReturn = -26103.507812, AverageEpisodeLength = 17476.000000
+step = 503316: loss = -675.7785097757975
+average_actor_loss = 1.4844864882849238 : average_critic_loss = 0.11084619847937457 : average_alpha_loss=-677.3738421983617
+step = 506196: loss = -679.800285466512
+average_actor_loss = 1.4836809369011057 : average_critic_loss = 0.11087162156020187 : average_alpha_loss=-681.3948382907444
+step = 506196: AverageReturn = -26112.365234, AverageEpisodeLength = 17476.000000
+step = 509076: loss = -683.7576258129544
+average_actor_loss = 1.4818142358627584 : average_critic_loss = 0.11047552077410122 : average_alpha_loss=-685.349916627672
+step = 512052: loss = -687.7770822176369
+average_actor_loss = 1.4834757231336126 : average_critic_loss = 0.11035537915003876 : average_alpha_loss=-689.3709128184985
+step = 512052: AverageReturn = -26092.410156, AverageEpisodeLength = 17476.000000
+step = 515028: loss = -691.86415631284
+average_actor_loss = 1.4837683511757722 : average_critic_loss = 0.10990199095930063 : average_alpha_loss=-693.4578272501627
+step = 517908: loss = -695.8852655198839
+average_actor_loss = 1.483037413491143 : average_critic_loss = 0.1105212185661205 : average_alpha_loss=-697.4788239161173
+step = 517908: AverageReturn = -26147.576172, AverageEpisodeLength = 17476.000000
+step = 520880: loss = -699.9025384997936
+average_actor_loss = 1.484095814009855 : average_critic_loss = 0.11043911388903495 : average_alpha_loss=-701.497073413546
+step = 523852: loss = -703.9838009162995
+average_actor_loss = 1.4843677717936632 : average_critic_loss = 0.11032634504229673 : average_alpha_loss=-705.5784946816445
+step = 523852: AverageReturn = -26113.207031, AverageEpisodeLength = 17476.000000
+step = 526828: loss = -708.0675679893903
+average_actor_loss = 1.48505341329722 : average_critic_loss = 0.1100403541568867 : average_alpha_loss=-709.6626623010122
+step = 529800: loss = -712.1531965171023
+average_actor_loss = 1.4840505665436408 : average_critic_loss = 0.1095833137511084 : average_alpha_loss=-713.7468298068759
+step = 529800: AverageReturn = -26118.412109, AverageEpisodeLength = 17476.000000
+step = 532776: loss = -716.2378249014578
+average_actor_loss = 1.482960710962934 : average_critic_loss = 0.11021134206995127 : average_alpha_loss=-717.8309972004224
+step = 535748: loss = -720.3220641802329
+average_actor_loss = 1.4834001519558087 : average_critic_loss = 0.10970070170211038 : average_alpha_loss=-721.9151646856665
+step = 535748: AverageReturn = -26116.777344, AverageEpisodeLength = 17476.000000
+step = 538628: loss = -724.3401801215277
+average_actor_loss = 1.4833004594677024 : average_critic_loss = 0.10993311878086792 : average_alpha_loss=-725.9334146075779
+step = 541604: loss = -728.3609533822664
+average_actor_loss = 1.483756337034446 : average_critic_loss = 0.10970157787193774 : average_alpha_loss=-729.9544107785789
+step = 541604: AverageReturn = -26096.349609, AverageEpisodeLength = 17476.000000
+step = 544580: loss = -732.4472671836935
+average_actor_loss = 1.4841624164693459 : average_critic_loss = 0.10989560238436184 : average_alpha_loss=-734.0413249026062
+step = 547556: loss = -736.5331379470005
+average_actor_loss = 1.4852963452057173 : average_critic_loss = 0.10980422839882874 : average_alpha_loss=-738.1282388830698
+step = 547556: AverageReturn = -26111.919922, AverageEpisodeLength = 17476.000000
+step = 550532: loss = -740.6204074121291
+average_actor_loss = 1.4843741463477254 : average_critic_loss = 0.11037098308925027 : average_alpha_loss=-742.2151529455698
+step = 553412: loss = -744.642359966702
+average_actor_loss = 1.4839654901375374 : average_critic_loss = 0.10982381214335975 : average_alpha_loss=-746.2361494488187
+step = 553412: AverageReturn = -26126.968750, AverageEpisodeLength = 17476.000000
+step = 556388: loss = -748.6624299736433
+average_actor_loss = 1.4848318936363343 : average_critic_loss = 0.10988366620124428 : average_alpha_loss=-750.257145666307
+step = 559364: loss = -752.7480810226932
+average_actor_loss = 1.4854888884771256 : average_critic_loss = 0.11048988049088787 : average_alpha_loss=-754.3440598518617
+step = 559364: AverageReturn = -26080.607422, AverageEpisodeLength = 17476.000000
+step = 562340: loss = -756.8351466271185
+average_actor_loss = 1.4858092946871635 : average_critic_loss = 0.11001909800845208 : average_alpha_loss=-758.4309746937085
+step = 565312: loss = -760.9208276268611
+average_actor_loss = 1.4843561737165156 : average_critic_loss = 0.10995852629607732 : average_alpha_loss=-762.5151422225931
+step = 565312: AverageReturn = -26076.931641, AverageEpisodeLength = 17476.000000
+step = 568192: loss = -764.9395635816786
+average_actor_loss = 1.4839482462654512 : average_critic_loss = 0.10987985426197863 : average_alpha_loss=-766.5333918889363
+step = 571072: loss = -768.8945627848308
+average_actor_loss = 1.4839178659021854 : average_critic_loss = 0.10998953552399245 : average_alpha_loss=-770.4884700563218
+step = 571072: AverageReturn = -26055.199219, AverageEpisodeLength = 17476.000000
+step = 574048: loss = -772.9160527875347
+average_actor_loss = 1.4839231002955668 : average_critic_loss = 0.10949017904118023 : average_alpha_loss=-774.5094662738103
+step = 577024: loss = -777.0031099627095
+average_actor_loss = 1.4837527760975464 : average_critic_loss = 0.10951878851710228 : average_alpha_loss=-778.5963811976935
+step = 577024: AverageReturn = -26105.097656, AverageEpisodeLength = 17476.000000
+step = 580000: loss = -781.0901136911043
+average_actor_loss = 1.4833864119424616 : average_critic_loss = 0.10979447851548352 : average_alpha_loss=-782.6832952807026
+step = 582976: loss = -785.1773226338048
+average_actor_loss = 1.483512213473679 : average_critic_loss = 0.10937447282886233 : average_alpha_loss=-786.7702095893121
+step = 582976: AverageReturn = -26197.742188, AverageEpisodeLength = 17476.000000
+step = 585952: loss = -789.2650425613567
+average_actor_loss = 1.4828236371038421 : average_critic_loss = 0.10925663920540002 : average_alpha_loss=-790.8571237748669
+step = 588832: loss = -793.2866097768148
+average_actor_loss = 1.4825442460262113 : average_critic_loss = 0.10896638217640833 : average_alpha_loss=-794.8781199773152
+step = 588832: AverageReturn = -26051.527344, AverageEpisodeLength = 17476.000000
+step = 591712: loss = -797.24419025845
+average_actor_loss = 1.4805305912676785 : average_critic_loss = 0.10847817416199379 : average_alpha_loss=-798.8331986109416
+step = 594688: loss = -801.2634708240467
+average_actor_loss = 1.4822147226622027 : average_critic_loss = 0.1085095488721685 : average_alpha_loss=-802.8541945795859
+step = 594688: AverageReturn = -26096.863281, AverageEpisodeLength = 17476.000000
+step = 597664: loss = -805.3497918857041
+average_actor_loss = 1.4825571711345384 : average_critic_loss = 0.1087602583205788 : average_alpha_loss=-806.9411089087046
+step = 600544: loss = -809.3715347925822
+average_actor_loss = 1.4818505250745349 : average_critic_loss = 0.10871901097707451 : average_alpha_loss=-810.9621053271824
+step = 600544: AverageReturn = -26077.660156, AverageEpisodeLength = 17476.000000
+step = 603424: loss = -813.3274926715427
+average_actor_loss = 1.481214065808389 : average_critic_loss = 0.10847609041569134 : average_alpha_loss=-814.917183388604
+step = 606396: loss = -817.34551958826
+average_actor_loss = 1.4814299058224278 : average_critic_loss = 0.10848353473998576 : average_alpha_loss=-818.9354331631358
+step = 606396: AverageReturn = -26117.728516, AverageEpisodeLength = 17476.000000
+step = 609276: loss = -821.3652833938598
+average_actor_loss = 1.4797957324319415 : average_critic_loss = 0.108602499232317 : average_alpha_loss=-822.9536824332343
+step = 612156: loss = -825.3203053156535
+average_actor_loss = 1.480251542934113 : average_critic_loss = 0.10820394273743861 : average_alpha_loss=-826.908760770162
+step = 612156: AverageReturn = -26064.500000, AverageEpisodeLength = 17476.000000
+step = 615132: loss = -829.3422337603826
+average_actor_loss = 1.4795357996337517 : average_critic_loss = 0.10798763349822532 : average_alpha_loss=-830.9297570874614
+step = 618012: loss = -833.3646908018325
+average_actor_loss = 1.4785365698238213 : average_critic_loss = 0.10752620267060896 : average_alpha_loss=-834.9507531907823
+step = 618012: AverageReturn = -26146.642578, AverageEpisodeLength = 17476.000000
+step = 620988: loss = -837.3840434576875
+average_actor_loss = 1.4797506164559113 : average_critic_loss = 0.10795554922523118 : average_alpha_loss=-838.9717500748172
+step = 623964: loss = -841.4703452407673
+average_actor_loss = 1.480344349097821 : average_critic_loss = 0.1079744378515389 : average_alpha_loss=-843.0586643424085
+step = 623964: AverageReturn = -26088.509766, AverageEpisodeLength = 17476.000000
+step = 626844: loss = -845.4908993403117
+average_actor_loss = 1.4802152344750032 : average_critic_loss = 0.10854542756763598 : average_alpha_loss=-847.0796603732639
+step = 629820: loss = -849.5134748848536
+average_actor_loss = 1.4792183137308526 : average_critic_loss = 0.10796351189304504 : average_alpha_loss=-851.1006565093994
+step = 629820: AverageReturn = -26071.953125, AverageEpisodeLength = 17476.000000
+step = 632796: loss = -853.5978018237698
+average_actor_loss = 1.4814623603497141 : average_critic_loss = 0.10830672612283579 : average_alpha_loss=-855.1875705718994
+step = 635772: loss = -857.6838207860147
+average_actor_loss = 1.4820410067275647 : average_critic_loss = 0.10862355672514006 : average_alpha_loss=-859.2744851881458
+step = 635772: AverageReturn = -26078.849609, AverageEpisodeLength = 17476.000000
+step = 638652: loss = -861.7050547493828
+average_actor_loss = 1.4815905613203844 : average_critic_loss = 0.10883720758526276 : average_alpha_loss=-863.2954814063178
+step = 641628: loss = -865.7270870413831
+average_actor_loss = 1.4807170608271194 : average_critic_loss = 0.10867284609866078 : average_alpha_loss=-867.316477724301
+step = 641628: AverageReturn = -26101.371094, AverageEpisodeLength = 17476.000000
+step = 644600: loss = -869.8117586035747
+average_actor_loss = 1.4805402330963962 : average_critic_loss = 0.108347563975532 : average_alpha_loss=-871.4006459786787
+step = 647576: loss = -873.8964213094404
+average_actor_loss = 1.4800478202761502 : average_critic_loss = 0.10834467985356848 : average_alpha_loss=-875.4848135261126
+step = 647576: AverageReturn = -26053.802734, AverageEpisodeLength = 17476.000000
+step = 650552: loss = -877.9821950850949
+average_actor_loss = 1.4809193486167538 : average_critic_loss = 0.10861427353454693 : average_alpha_loss=-879.5717279372677
+step = 653528: loss = -882.0687949683077
+average_actor_loss = 1.4810536730914348 : average_critic_loss = 0.10879345409201599 : average_alpha_loss=-883.6586422458772
+step = 653528: AverageReturn = -26088.666016, AverageEpisodeLength = 17476.000000
+step = 656504: loss = -886.1545799829627
+average_actor_loss = 1.4822324270843177 : average_critic_loss = 0.10874307118055801 : average_alpha_loss=-887.745556431432
+step = 659480: loss = -890.2413498252951
+average_actor_loss = 1.4826417154362124 : average_critic_loss = 0.10847960327631764 : average_alpha_loss=-891.8324709041144
+step = 659480: AverageReturn = -26097.214844, AverageEpisodeLength = 17476.000000
+step = 662456: loss = -894.3269385471139
+average_actor_loss = 1.4841652426027483 : average_critic_loss = 0.10828159434811002 : average_alpha_loss=-895.9193849871235
+step = 665432: loss = -898.4162174552999
+average_actor_loss = 1.4822807559963835 : average_critic_loss = 0.10780113873883121 : average_alpha_loss=-900.0062990086053
+step = 665432: AverageReturn = -26082.632812, AverageEpisodeLength = 17476.000000
+step = 668312: loss = -902.4370869954427
+average_actor_loss = 1.4818953723957142 : average_critic_loss = 0.10831247298823049 : average_alpha_loss=-904.0272951126099
+step = 671192: loss = -906.3934140735203
+average_actor_loss = 1.4811374071157641 : average_critic_loss = 0.10782208675259931 : average_alpha_loss=-907.9823732588027
+step = 671192: AverageReturn = -26042.849609, AverageEpisodeLength = 17476.000000
+step = 674072: loss = -910.3465151045058
+average_actor_loss = 1.4829435127890773 : average_critic_loss = 0.10799360104526083 : average_alpha_loss=-911.9374518288506
+step = 677048: loss = -914.3677862228885
+average_actor_loss = 1.4831618927018617 : average_critic_loss = 0.10750009843038134 : average_alpha_loss=-915.9584479178152
+step = 677048: AverageReturn = -26061.339844, AverageEpisodeLength = 17476.000000
+step = 680024: loss = -918.4563323605445
+average_actor_loss = 1.4821598951214103 : average_critic_loss = 0.10687045244029372 : average_alpha_loss=-920.0453624725342
+step = 683000: loss = -922.5425188208139
+average_actor_loss = 1.4824927085509865 : average_critic_loss = 0.10726615085306587 : average_alpha_loss=-924.1322770272532
+step = 683000: AverageReturn = -26105.779297, AverageEpisodeLength = 17476.000000
+step = 685976: loss = -926.6295592810518
+average_actor_loss = 1.4817102646795652 : average_critic_loss = 0.10792199050336676 : average_alpha_loss=-928.2191911307714
+step = 688952: loss = -930.715054768388
+average_actor_loss = 1.4829780380892497 : average_critic_loss = 0.1080720337403197 : average_alpha_loss=-932.306105111235
+step = 688952: AverageReturn = -26060.939453, AverageEpisodeLength = 17476.000000
+step = 691924: loss = -934.7995202743509
+average_actor_loss = 1.4825410412506652 : average_critic_loss = 0.10821036269705277 : average_alpha_loss=-936.3902725692071
+step = 694896: loss = -938.8804058829676
+average_actor_loss = 1.483631396237485 : average_critic_loss = 0.10765778501975584 : average_alpha_loss=-940.4716938167691
+step = 694896: AverageReturn = -26059.673828, AverageEpisodeLength = 17476.000000
+step = 697868: loss = -942.9618189979851
+average_actor_loss = 1.4837472852354576 : average_critic_loss = 0.10754852999167198 : average_alpha_loss=-944.5531151054043
+step = 700844: loss = -947.0465196383897
+average_actor_loss = 1.4832242081562679 : average_critic_loss = 0.10753881352482944 : average_alpha_loss=-948.637282627885
+step = 700844: AverageReturn = -26072.914062, AverageEpisodeLength = 17476.000000
+step = 703820: loss = -951.133746588102
+average_actor_loss = 1.4829896057965934 : average_critic_loss = 0.10746118528467993 : average_alpha_loss=-952.7241971415858
+step = 706796: loss = -955.2201942115702
+average_actor_loss = 1.483129693295366 : average_critic_loss = 0.10778724674325717 : average_alpha_loss=-956.8111112040858
+step = 706796: AverageReturn = -26078.705078, AverageEpisodeLength = 17476.000000
+step = 709676: loss = -959.2409635119968
+average_actor_loss = 1.48361263461411 : average_critic_loss = 0.10753138652330058 : average_alpha_loss=-960.8321074591743
+step = 712652: loss = -963.2631340026855
+average_actor_loss = 1.4826391460674424 : average_critic_loss = 0.107330117642539 : average_alpha_loss=-964.8531039043139
+step = 712652: AverageReturn = -26147.910156, AverageEpisodeLength = 17476.000000
+step = 715624: loss = -967.3463732179049
+average_actor_loss = 1.4833339681375075 : average_critic_loss = 0.10756452782217459 : average_alpha_loss=-968.9372713646048
+step = 718504: loss = -971.3656046761407
+average_actor_loss = 1.4830318328407075 : average_critic_loss = 0.10688470907043665 : average_alpha_loss=-972.9555212656657
+step = 718504: AverageReturn = -26070.828125, AverageEpisodeLength = 17476.000000
+step = 721480: loss = -975.3847872211087
+average_actor_loss = 1.4848158416408364 : average_critic_loss = 0.10691456048579145 : average_alpha_loss=-976.9765174414522
+step = 724360: loss = -979.4075689315796
+average_actor_loss = 1.483182545958294 : average_critic_loss = 0.10676195816033417 : average_alpha_loss=-980.997513601515
+step = 724360: AverageReturn = -26073.437500, AverageEpisodeLength = 17476.000000
+step = 727240: loss = -983.3623876783583
+average_actor_loss = 1.4833134509623052 : average_critic_loss = 0.10689129949961272 : average_alpha_loss=-984.9525916205512
+step = 730216: loss = -987.3831872837518
+average_actor_loss = 1.4840575762253294 : average_critic_loss = 0.10634308892442414 : average_alpha_loss=-988.9735877539522
+step = 730216: AverageReturn = -26116.453125, AverageEpisodeLength = 17476.000000
+step = 733192: loss = -991.4694606411841
+average_actor_loss = 1.4842451566890362 : average_critic_loss = 0.10679694455397386 : average_alpha_loss=-993.0605021651073
+step = 736168: loss = -995.5579741898404
+average_actor_loss = 1.4832941686273904 : average_critic_loss = 0.1061479631931551 : average_alpha_loss=-997.1474163711712
+step = 736168: AverageReturn = -26309.861328, AverageEpisodeLength = 17476.000000
+step = 739140: loss = -999.6416234957258
+average_actor_loss = 1.4837623460376246 : average_critic_loss = 0.10619833442967881 : average_alpha_loss=-1001.2315840586358
+step = 742020: loss = -1003.6603061676026
+average_actor_loss = 1.4833334821379847 : average_critic_loss = 0.1061955041407297 : average_alpha_loss=-1005.2498342514039
+step = 742020: AverageReturn = -26097.294922, AverageEpisodeLength = 17476.000000
+step = 744900: loss = -1007.6155833562215
+average_actor_loss = 1.4833876510461173 : average_critic_loss = 0.10594151801067508 : average_alpha_loss=-1009.2049123975966
+step = 747876: loss = -1011.6357037944179
+average_actor_loss = 1.4841104538770773 : average_critic_loss = 0.10609443693281582 : average_alpha_loss=-1013.2259085460375
+step = 747876: AverageReturn = -26068.578125, AverageEpisodeLength = 17476.000000
+step = 750756: loss = -1015.6584567811753
+average_actor_loss = 1.4824771967613035 : average_critic_loss = 0.10597118786536157 : average_alpha_loss=-1017.2469045850966
+step = 753728: loss = -1019.6754630744698
+average_actor_loss = 1.4836085603984817 : average_critic_loss = 0.10608243791093175 : average_alpha_loss=-1021.265154174969
+step = 753728: AverageReturn = -26134.033203, AverageEpisodeLength = 17476.000000
+step = 756704: loss = -1023.7620052009501
+average_actor_loss = 1.4819558739501943 : average_critic_loss = 0.10536087521662314 : average_alpha_loss=-1025.3493231701596
+step = 759584: loss = -1027.7818386077881
+average_actor_loss = 1.4830602527492576 : average_critic_loss = 0.10541992984556904 : average_alpha_loss=-1029.370319281684
+step = 759584: AverageReturn = -26233.019531, AverageEpisodeLength = 17476.000000
+step = 762464: loss = -1031.7374329460993
+average_actor_loss = 1.482456110500627 : average_critic_loss = 0.10550902858117803 : average_alpha_loss=-1033.3253974490694
+step = 765440: loss = -1035.7576179914577
+average_actor_loss = 1.4827226793733976 : average_critic_loss = 0.10605297614169377 : average_alpha_loss=-1037.3463941594605
+step = 765440: AverageReturn = -26084.949219, AverageEpisodeLength = 17476.000000
+step = 768320: loss = -1039.7793975406223
+average_actor_loss = 1.482420781503121 : average_critic_loss = 0.10557151997151475 : average_alpha_loss=-1041.3673916286893
+step = 771200: loss = -1043.732797410753
+average_actor_loss = 1.4839053008705378 : average_critic_loss = 0.10576661074171878 : average_alpha_loss=-1045.3224697113037
+step = 771200: AverageReturn = -26057.271484, AverageEpisodeLength = 17476.000000
+step = 774176: loss = -1047.753770315519
+average_actor_loss = 1.484070878636132 : average_critic_loss = 0.10562359853847934 : average_alpha_loss=-1049.3434648001066
+step = 777056: loss = -1051.774192767673
+average_actor_loss = 1.4842553947534827 : average_critic_loss = 0.10601085479267769 : average_alpha_loss=-1053.364460712009
+step = 777056: AverageReturn = -26095.205078, AverageEpisodeLength = 17476.000000
+step = 780032: loss = -1055.7959941330776
+average_actor_loss = 1.4840095926036116 : average_critic_loss = 0.10545200710335086 : average_alpha_loss=-1057.3854569465884
+step = 783008: loss = -1059.8834235488728
+average_actor_loss = 1.4833335333293485 : average_critic_loss = 0.10561464660831037 : average_alpha_loss=-1061.4723726088
+step = 783008: AverageReturn = -26100.484375, AverageEpisodeLength = 17476.000000
+step = 785984: loss = -1063.9691466054608
+average_actor_loss = 1.4847168761796208 : average_critic_loss = 0.10542432698471252 : average_alpha_loss=-1065.5592865892636
+step = 788864: loss = -1067.989997821384
+average_actor_loss = 1.4846315446413225 : average_critic_loss = 0.10565304775308404 : average_alpha_loss=-1069.5802824656168
+step = 788864: AverageReturn = -26041.761719, AverageEpisodeLength = 17476.000000
+step = 791836: loss = -1072.005841015165
+average_actor_loss = 1.4867302198589731 : average_critic_loss = 0.10596162339730106 : average_alpha_loss=-1073.5985321414582
+step = 794812: loss = -1076.089531396025
+average_actor_loss = 1.4873107012000777 : average_critic_loss = 0.1058557572679454 : average_alpha_loss=-1077.6826995931647
+step = 794812: AverageReturn = -26045.158203, AverageEpisodeLength = 17476.000000
+step = 797692: loss = -1080.1113666110568
+average_actor_loss = 1.4865843867676125 : average_critic_loss = 0.10574586430771483 : average_alpha_loss=-1081.703695763482
+step = 800572: loss = -1084.06610399882
+average_actor_loss = 1.4874082328958644 : average_critic_loss = 0.10526154447450406 : average_alpha_loss=-1085.6587741004096
+step = 800572: AverageReturn = -26071.068359, AverageEpisodeLength = 17476.000000
+step = 803544: loss = -1088.082971996446
+average_actor_loss = 1.4884537748821973 : average_critic_loss = 0.10559797558988648 : average_alpha_loss=-1089.677023557763
+step = 806520: loss = -1092.1683485379783
+average_actor_loss = 1.4872791983828109 : average_critic_loss = 0.10556139382633871 : average_alpha_loss=-1093.761190968175
+step = 806520: AverageReturn = -26051.496094, AverageEpisodeLength = 17476.000000
+step = 809400: loss = -1096.1883519914416
+average_actor_loss = 1.4880159700082407 : average_critic_loss = 0.1058181468035198 : average_alpha_loss=-1097.782186847263
+step = 812376: loss = -1100.210063893308
+average_actor_loss = 1.4874017007889286 : average_critic_loss = 0.10571710878772841 : average_alpha_loss=-1101.803183811967
+step = 812376: AverageReturn = -26065.248047, AverageEpisodeLength = 17476.000000
+step = 815352: loss = -1104.2969437876056
+average_actor_loss = 1.4873917786584747 : average_critic_loss = 0.10576209230148183 : average_alpha_loss=-1105.890097997522
+step = 818232: loss = -1108.3159567515056
+average_actor_loss = 1.488743268367317 : average_critic_loss = 0.10639381956878222 : average_alpha_loss=-1109.91109407213
+step = 818232: AverageReturn = -26057.226562, AverageEpisodeLength = 17476.000000
+step = 821208: loss = -1112.336758767405
+average_actor_loss = 1.489098265566813 : average_critic_loss = 0.10623390037786737 : average_alpha_loss=-1113.932090390113
+step = 824088: loss = -1116.3574307335748
+average_actor_loss = 1.489524824089474 : average_critic_loss = 0.10613085219067418 : average_alpha_loss=-1117.9530865987142
+step = 824088: AverageReturn = -26056.593750, AverageEpisodeLength = 17476.000000
+step = 827060: loss = -1120.376174988368
+average_actor_loss = 1.4891847888682124 : average_critic_loss = 0.10597670894783005 : average_alpha_loss=-1121.9713368062858
+step = 829940: loss = -1124.3928568098281
+average_actor_loss = 1.4904743844850197 : average_critic_loss = 0.10625672769060152 : average_alpha_loss=-1125.9895863427057
+step = 829940: AverageReturn = -26041.441406, AverageEpisodeLength = 17476.000000
+step = 832820: loss = -1128.3488605499267
+average_actor_loss = 1.4898920283135442 : average_critic_loss = 0.10591182235317925 : average_alpha_loss=-1129.944664171007
+step = 835700: loss = -1132.3046557108562
+average_actor_loss = 1.4894052159041167 : average_critic_loss = 0.10567978002234465 : average_alpha_loss=-1133.8997425079347
+step = 835700: AverageReturn = -26039.820312, AverageEpisodeLength = 17476.000000
+step = 838676: loss = -1136.3247129788963
+average_actor_loss = 1.490014331435324 : average_critic_loss = 0.10601209656345428 : average_alpha_loss=-1137.920738753452
+step = 841556: loss = -1140.3448129442004
+average_actor_loss = 1.4907727697657214 : average_critic_loss = 0.10614934951429152 : average_alpha_loss=-1141.9417356703016
+step = 841556: AverageReturn = -26084.087891, AverageEpisodeLength = 17476.000000
+step = 844532: loss = -1144.3674230678107
+average_actor_loss = 1.489614743258684 : average_critic_loss = 0.10569363887051261 : average_alpha_loss=-1145.9627319664085
+step = 847504: loss = -1148.450728322744
+average_actor_loss = 1.4904094072883576 : average_critic_loss = 0.1057605688180649 : average_alpha_loss=-1150.0468976314744
+step = 847504: AverageReturn = -26075.023438, AverageEpisodeLength = 17476.000000
+step = 850476: loss = -1152.5332104360753
+average_actor_loss = 1.4893339277517106 : average_critic_loss = 0.10569897991470982 : average_alpha_loss=-1154.1282438994417
+step = 853356: loss = -1156.5507026672362
+average_actor_loss = 1.490350490849879 : average_critic_loss = 0.1054414317322274 : average_alpha_loss=-1158.146493487888
+step = 853356: AverageReturn = -26045.726562, AverageEpisodeLength = 17476.000000
+step = 856236: loss = -1160.5074384477402
+average_actor_loss = 1.4889034896261162 : average_critic_loss = 0.1052295001792825 : average_alpha_loss=-1162.1015712314181
+step = 859116: loss = -1164.4623202853732
+average_actor_loss = 1.4888717342582014 : average_critic_loss = 0.10545799907348637 : average_alpha_loss=-1166.0566493564181
+step = 859116: AverageReturn = -26055.701172, AverageEpisodeLength = 17476.000000
+step = 862092: loss = -1168.4828099076467
+average_actor_loss = 1.4896032666006396 : average_critic_loss = 0.10523160945333701 : average_alpha_loss=-1170.0776458248015
+step = 864972: loss = -1172.5047705332438
+average_actor_loss = 1.4885405553711786 : average_critic_loss = 0.10533082948273255 : average_alpha_loss=-1174.0986417558458
+step = 864972: AverageReturn = -26077.681641, AverageEpisodeLength = 17476.000000
+step = 867852: loss = -1176.459776433309
+average_actor_loss = 1.4886106065164009 : average_critic_loss = 0.10533330916789257 : average_alpha_loss=-1178.053719965617
+step = 870732: loss = -1180.4155097113714
+average_actor_loss = 1.488084109375874 : average_critic_loss = 0.10520435769576579 : average_alpha_loss=-1182.008798895942
+step = 870732: AverageReturn = -26283.105469, AverageEpisodeLength = 17476.000000
+step = 873704: loss = -1184.433157015938
+average_actor_loss = 1.4886647969444218 : average_critic_loss = 0.10522758998077057 : average_alpha_loss=-1186.027049376538
+step = 876680: loss = -1188.5166606697985
+average_actor_loss = 1.489428860966557 : average_critic_loss = 0.10512805786935152 : average_alpha_loss=-1190.1112168835054
+step = 876680: AverageReturn = -26105.748047, AverageEpisodeLength = 17476.000000
+step = 879656: loss = -1192.6019328127625
+average_actor_loss = 1.4904211292904552 : average_critic_loss = 0.10577634286375777 : average_alpha_loss=-1194.1981309460054
+step = 882632: loss = -1196.6889752623856
+average_actor_loss = 1.490660941528697 : average_critic_loss = 0.10540775322825999 : average_alpha_loss=-1198.2850449674872
+step = 882632: AverageReturn = -26119.169922, AverageEpisodeLength = 17476.000000
+step = 885512: loss = -1200.7107390933566
+average_actor_loss = 1.4901099233577648 : average_critic_loss = 0.10519237480540243 : average_alpha_loss=-1202.3060410817463
+step = 888488: loss = -1204.7317967158492
+average_actor_loss = 1.490085293288513 : average_critic_loss = 0.10515559535042973 : average_alpha_loss=-1206.327037278042
+step = 888488: AverageReturn = -26059.185547, AverageEpisodeLength = 17476.000000
+step = 891464: loss = -1208.8180345924952
+average_actor_loss = 1.4904368303475841 : average_critic_loss = 0.10548060840516481 : average_alpha_loss=-1210.413951340542
+step = 894436: loss = -1212.9003815888395
+average_actor_loss = 1.4921427777445653 : average_critic_loss = 0.10559461808802302 : average_alpha_loss=-1214.498118876769
+step = 894436: AverageReturn = -26078.007812, AverageEpisodeLength = 17476.000000
+step = 897412: loss = -1216.9852451611591
+average_actor_loss = 1.49138222086013 : average_critic_loss = 0.10565943089413947 : average_alpha_loss=-1218.5822861784247
+step = 900388: loss = -1221.0723676784064
+average_actor_loss = 1.4910286180274461 : average_critic_loss = 0.1058045028563669 : average_alpha_loss=-1222.669200938235
+step = 900388: AverageReturn = -26049.623047, AverageEpisodeLength = 17476.000000
+step = 903360: loss = -1225.157306286079
+average_actor_loss = 1.4907458147402568 : average_critic_loss = 0.10531632383109583 : average_alpha_loss=-1226.7533696252917
+step = 906332: loss = -1229.2379684756293
+average_actor_loss = 1.4915051799603458 : average_critic_loss = 0.10531605861349029 : average_alpha_loss=-1230.8347905648027
+step = 906332: AverageReturn = -26042.406250, AverageEpisodeLength = 17476.000000
+step = 909308: loss = -1233.3221064741892
+average_actor_loss = 1.4917307725196243 : average_critic_loss = 0.10512053674357312 : average_alpha_loss=-1234.9189581101941
+step = 912284: loss = -1237.4094244023804
+average_actor_loss = 1.4911568309430794 : average_critic_loss = 0.10528965104341266 : average_alpha_loss=-1239.005872008621
+step = 912284: AverageReturn = -26121.484375, AverageEpisodeLength = 17476.000000
+step = 915260: loss = -1241.4985173953478
+average_actor_loss = 1.489239872022662 : average_critic_loss = 0.1050277198614773 : average_alpha_loss=-1243.0927862351941
+step = 918140: loss = -1245.5182287428115
+average_actor_loss = 1.4908312337679996 : average_critic_loss = 0.10472215864445186 : average_alpha_loss=-1247.1137823740642
+step = 918140: AverageReturn = -26067.876953, AverageEpisodeLength = 17476.000000
+step = 921112: loss = -1249.5358857145861
+average_actor_loss = 1.4913956555431336 : average_critic_loss = 0.10475140079494921 : average_alpha_loss=-1251.1320317757402
+step = 924088: loss = -1253.6218718251873
+average_actor_loss = 1.489795767692148 : average_critic_loss = 0.10453127830299319 : average_alpha_loss=-1255.216199239095
+step = 924088: AverageReturn = -26068.769531, AverageEpisodeLength = 17476.000000
+step = 926968: loss = -1257.641550233629
+average_actor_loss = 1.4907545928739838 : average_critic_loss = 0.1048911582135285 : average_alpha_loss=-1259.2371954600017
+step = 929944: loss = -1261.6617897607946
+average_actor_loss = 1.491428585342502 : average_critic_loss = 0.1049742468517594 : average_alpha_loss=-1263.2581923289965
+step = 929944: AverageReturn = -26081.148438, AverageEpisodeLength = 17476.000000
+step = 932920: loss = -1265.7474075235345
+average_actor_loss = 1.4927715180862335 : average_critic_loss = 0.10492859697169675 : average_alpha_loss=-1267.3451074579712
+step = 935800: loss = -1269.769414054023
+average_actor_loss = 1.4922903957466285 : average_critic_loss = 0.10440021650348273 : average_alpha_loss=-1271.3661034478082
+step = 935800: AverageReturn = -26090.583984, AverageEpisodeLength = 17476.000000
+step = 938776: loss = -1273.7900576027491
+average_actor_loss = 1.4920737003927589 : average_critic_loss = 0.10496736872660857 : average_alpha_loss=-1275.3870996864894
+step = 941752: loss = -1277.8770326593872
+average_actor_loss = 1.491951940881629 : average_critic_loss = 0.10502831810855016 : average_alpha_loss=-1279.4740137489894
+step = 941752: AverageReturn = -26074.013672, AverageEpisodeLength = 17476.000000
+step = 944632: loss = -1281.8979219224718
+average_actor_loss = 1.4922300320118667 : average_critic_loss = 0.10485786428261135 : average_alpha_loss=-1283.4950099945067
+step = 947512: loss = -1285.8535848405627
+average_actor_loss = 1.4919697301255332 : average_critic_loss = 0.10453639957639906 : average_alpha_loss=-1287.4500890943739
+step = 947512: AverageReturn = -26031.533203, AverageEpisodeLength = 17476.000000
+step = 950488: loss = -1289.8747874434275
+average_actor_loss = 1.4915346270126681 : average_critic_loss = 0.10476273882843715 : average_alpha_loss=-1291.4710852100004
+step = 953464: loss = -1293.962095896403
+average_actor_loss = 1.4909895555947417 : average_critic_loss = 0.10491320093022159 : average_alpha_loss=-1295.557999231482
+step = 953464: AverageReturn = -26081.179688, AverageEpisodeLength = 17476.000000
+step = 956436: loss = -1298.0458171120563
+average_actor_loss = 1.491441858328207 : average_critic_loss = 0.10490732849356223 : average_alpha_loss=-1299.6421666511135
+step = 959316: loss = -1302.0640675438774
+average_actor_loss = 1.4914282434930404 : average_critic_loss = 0.10491922335802681 : average_alpha_loss=-1303.6604162428114
+step = 959316: AverageReturn = -26017.001953, AverageEpisodeLength = 17476.000000
+step = 962196: loss = -1306.0187210506863
+average_actor_loss = 1.4919038203441435 : average_critic_loss = 0.104869875855123 : average_alpha_loss=-1307.6154958089194
+step = 965172: loss = -1310.0399584616384
+average_actor_loss = 1.491940867636473 : average_critic_loss = 0.10459510251999862 : average_alpha_loss=-1311.6364917960218
+step = 965172: AverageReturn = -26061.380859, AverageEpisodeLength = 17476.000000
+step = 968052: loss = -1314.0611649831137
+average_actor_loss = 1.4918052259832622 : average_critic_loss = 0.10451911860921731 : average_alpha_loss=-1315.6574879964194
+step = 971028: loss = -1318.0812644138132
+average_actor_loss = 1.4925270826425603 : average_critic_loss = 0.10469359149956094 : average_alpha_loss=-1319.6784839835218
+step = 971028: AverageReturn = -26035.166016, AverageEpisodeLength = 17476.000000
+step = 973908: loss = -1322.102991273668
+average_actor_loss = 1.4922622051090002 : average_critic_loss = 0.10422803175946077 : average_alpha_loss=-1323.6994798872206
+step = 976884: loss = -1326.1255446403256
+average_actor_loss = 1.4907685104477149 : average_critic_loss = 0.10416201201407739 : average_alpha_loss=-1327.7204760479672
+step = 976884: AverageReturn = -26037.335938, AverageEpisodeLength = 17476.000000
+step = 979764: loss = -1330.1472868601481
+average_actor_loss = 1.4902566500422028 : average_critic_loss = 0.10392820663594951 : average_alpha_loss=-1331.741472201877
+step = 982644: loss = -1334.1018065982394
+average_actor_loss = 1.4906386724776692 : average_critic_loss = 0.1041027962954508 : average_alpha_loss=-1335.6965504116483
+step = 982644: AverageReturn = -26168.119141, AverageEpisodeLength = 17476.000000
+step = 985616: loss = -1338.1197124907337
+average_actor_loss = 1.4912152787317017 : average_critic_loss = 0.10387031243384526 : average_alpha_loss=-1339.714799924622
+step = 988592: loss = -1342.2035005220803
+average_actor_loss = 1.4918237616538361 : average_critic_loss = 0.10364266820452227 : average_alpha_loss=-1343.7989675050142
+step = 988592: AverageReturn = -26028.830078, AverageEpisodeLength = 17476.000000
+step = 991568: loss = -1346.2899099780668
+average_actor_loss = 1.4920092549936106 : average_critic_loss = 0.10396379733618388 : average_alpha_loss=-1347.885883003153
+step = 994544: loss = -1350.3787127669138
+average_actor_loss = 1.4904579246236431 : average_critic_loss = 0.10362650916951718 : average_alpha_loss=-1351.9727973117624
+step = 994544: AverageReturn = -26076.339844, AverageEpisodeLength = 17476.000000
+step = 997516: loss = -1354.4627683903936
+average_actor_loss = 1.4906546277361314 : average_critic_loss = 0.10354197440195131 : average_alpha_loss=-1356.0569647767181
+step = 1000492: loss = -1358.5463888927172
+average_actor_loss = 1.4910986685865029 : average_critic_loss = 0.1036435708338495 : average_alpha_loss=-1360.1411323547363
+step = 1000492: AverageReturn = -26027.935547, AverageEpisodeLength = 17476.000000
+step = 1003468: loss = -1362.6328770627258
+average_actor_loss = 1.491153190893832 : average_critic_loss = 0.10401535911425468 : average_alpha_loss=-1364.2280466633458
+step = 1006348: loss = -1366.654520585802
+average_actor_loss = 1.4905061632808712 : average_critic_loss = 0.10401540423432985 : average_alpha_loss=-1368.2490430619982
+step = 1006348: AverageReturn = -26051.949219, AverageEpisodeLength = 17476.000000
+step = 1009320: loss = -1370.6712535586043
+average_actor_loss = 1.492031052568238 : average_critic_loss = 0.10400888329549801 : average_alpha_loss=-1372.267292500184
+step = 1012200: loss = -1374.6906500498453
+average_actor_loss = 1.4909154429203935 : average_critic_loss = 0.10397681363392622 : average_alpha_loss=-1376.2855420854357
+step = 1012200: AverageReturn = -26071.460938, AverageEpisodeLength = 17476.000000
+step = 1015080: loss = -1378.646960237291
+average_actor_loss = 1.4903274448795452 : average_critic_loss = 0.10333214659864703 : average_alpha_loss=-1380.2406202952068
+step = 1018056: loss = -1382.6662745732133
+average_actor_loss = 1.4917980377231874 : average_critic_loss = 0.10354369312965421 : average_alpha_loss=-1384.261616286411
+step = 1018056: AverageReturn = -26071.609375, AverageEpisodeLength = 17476.000000
+step = 1021028: loss = -1386.7514993865268
+average_actor_loss = 1.4907612367000427 : average_critic_loss = 0.10352475727591187 : average_alpha_loss=-1388.3457851486926
+step = 1024004: loss = -1390.8348938316428
+average_actor_loss = 1.4917627560595672 : average_critic_loss = 0.10329627332037254 : average_alpha_loss=-1392.4299531752063
+step = 1024004: AverageReturn = -26044.576172, AverageEpisodeLength = 17476.000000
+step = 1026980: loss = -1394.923946175524
+average_actor_loss = 1.4896466726417184 : average_critic_loss = 0.10327440423149896 : average_alpha_loss=-1396.5168672787245
+step = 1029952: loss = -1399.008973893054
+average_actor_loss = 1.4887171444228648 : average_critic_loss = 0.10334399785009159 : average_alpha_loss=-1400.6010347882318
+step = 1029952: AverageReturn = -26023.228516, AverageEpisodeLength = 17476.000000
+step = 1032924: loss = -1403.0903956951074
+average_actor_loss = 1.4890873378410956 : average_critic_loss = 0.10297058971190115 : average_alpha_loss=-1404.6824557277428
+step = 1035804: loss = -1407.1092303382027
+average_actor_loss = 1.4891422753946648 : average_critic_loss = 0.10233313666604874 : average_alpha_loss=-1408.70070537991
+step = 1035804: AverageReturn = -26042.492188, AverageEpisodeLength = 17476.000000
+step = 1038780: loss = -1411.1285478735483
+average_actor_loss = 1.4898388254386123 : average_critic_loss = 0.10331430931585611 : average_alpha_loss=-1412.7217020834646
+step = 1041756: loss = -1415.2156233018445
+average_actor_loss = 1.4899941745304293 : average_critic_loss = 0.10299877830410517 : average_alpha_loss=-1416.8086159818915
+step = 1041756: AverageReturn = -26043.472656, AverageEpisodeLength = 17476.000000
+step = 1044728: loss = -1419.300044145751
+average_actor_loss = 1.4895156856180038 : average_critic_loss = 0.10322281114085205 : average_alpha_loss=-1420.8927834922822
+step = 1047704: loss = -1423.3850475844517
+average_actor_loss = 1.4890058253721525 : average_critic_loss = 0.10289610239116334 : average_alpha_loss=-1424.9769509838472
+step = 1047704: AverageReturn = -26050.921875, AverageEpisodeLength = 17476.000000
+step = 1050680: loss = -1427.4704877791867
+average_actor_loss = 1.4903356854313163 : average_critic_loss = 0.10304263508277794 : average_alpha_loss=-1429.0638652104203
+step = 1053656: loss = -1431.5584126544254
+average_actor_loss = 1.4892431302496822 : average_critic_loss = 0.10312322391477484 : average_alpha_loss=-1433.1507791498657
+step = 1053656: AverageReturn = -26029.652344, AverageEpisodeLength = 17476.000000
+step = 1056632: loss = -1435.644360080842
+average_actor_loss = 1.4903699392753262 : average_critic_loss = 0.10296212941388129 : average_alpha_loss=-1437.237693130329
+step = 1059608: loss = -1439.7307084196357
+average_actor_loss = 1.4908015874204457 : average_critic_loss = 0.10309745212365944 : average_alpha_loss=-1441.324607315884
+step = 1059608: AverageReturn = -26024.039062, AverageEpisodeLength = 17476.000000
+step = 1062584: loss = -1443.8182402990199
+average_actor_loss = 1.4902042786600769 : average_critic_loss = 0.1030767299410116 : average_alpha_loss=-1445.411521255329
+step = 1065464: loss = -1447.8379509396023
+average_actor_loss = 1.490792608468069 : average_critic_loss = 0.10377515535542949 : average_alpha_loss=-1449.432517835829
+step = 1065464: AverageReturn = -26084.769531, AverageEpisodeLength = 17476.000000
+step = 1068344: loss = -1451.793192460802
+average_actor_loss = 1.4905517869939406 : average_critic_loss = 0.10385403154521353 : average_alpha_loss=-1453.387596766154
+step = 1071320: loss = -1455.8133969460764
+average_actor_loss = 1.4915807575227753 : average_critic_loss = 0.10361377055686648 : average_alpha_loss=-1457.408592839395
+step = 1071320: AverageReturn = -26047.675781, AverageEpisodeLength = 17476.000000
+step = 1074296: loss = -1459.9000669089696
+average_actor_loss = 1.4918416595907622 : average_critic_loss = 0.10359792685466668 : average_alpha_loss=-1461.4955069839314
+step = 1077176: loss = -1463.9210968441434
+average_actor_loss = 1.4916703108284208 : average_critic_loss = 0.1037363649216584 : average_alpha_loss=-1465.5165028889974
+step = 1077176: AverageReturn = -26025.048828, AverageEpisodeLength = 17476.000000
+step = 1080056: loss = -1467.8756682925755
+average_actor_loss = 1.492417032768329 : average_critic_loss = 0.10349716048998138 : average_alpha_loss=-1469.4715811835395
+step = 1082936: loss = -1471.8313491821289
+average_actor_loss = 1.4924727285901704 : average_critic_loss = 0.10283873998560011 : average_alpha_loss=-1473.4266591389974
+step = 1082936: AverageReturn = -26061.869141, AverageEpisodeLength = 17476.000000
+step = 1085816: loss = -1475.7868160247804
+average_actor_loss = 1.491735678166151 : average_critic_loss = 0.10318636022663365 : average_alpha_loss=-1477.3817374335395
+step = 1088696: loss = -1479.7416661156549
+average_actor_loss = 1.4917264156871373 : average_critic_loss = 0.1034225617768243 : average_alpha_loss=-1481.3368153889974
+step = 1088696: AverageReturn = -26039.138672, AverageEpisodeLength = 17476.000000
+step = 1091668: loss = -1483.7602687748413
+average_actor_loss = 1.4917583519725748 : average_critic_loss = 0.10303842366584057 : average_alpha_loss=-1485.3550651211438
+step = 1094644: loss = -1487.8452096344322
+average_actor_loss = 1.4909423968644553 : average_critic_loss = 0.10308143492006967 : average_alpha_loss=-1489.4392326519053
+step = 1094644: AverageReturn = -26060.208984, AverageEpisodeLength = 17476.000000
+step = 1097616: loss = -1491.9300629113918
+average_actor_loss = 1.4904189914825947 : average_critic_loss = 0.10291915318225467 : average_alpha_loss=-1493.5234005749626
+step = 1100588: loss = -1496.0115654227873
+average_actor_loss = 1.4905534932943887 : average_critic_loss = 0.10270331837337159 : average_alpha_loss=-1497.6048215144735
+step = 1100588: AverageReturn = -26030.880859, AverageEpisodeLength = 17476.000000
+step = 1103468: loss = -1500.0286324818928
+average_actor_loss = 1.4913971879002121 : average_critic_loss = 0.1030391817757239 : average_alpha_loss=-1501.6230710347493
+step = 1106348: loss = -1503.9844740125868
+average_actor_loss = 1.4906725274605883 : average_critic_loss = 0.10300230926885787 : average_alpha_loss=-1505.5781492445203
+step = 1106348: AverageReturn = -26039.537109, AverageEpisodeLength = 17476.000000
+step = 1109324: loss = -1508.0046985585202
+average_actor_loss = 1.4916509553709978 : average_critic_loss = 0.1027948312631618 : average_alpha_loss=-1509.5991454996088
+step = 1112296: loss = -1512.0877587381315
+average_actor_loss = 1.492362211040982 : average_critic_loss = 0.10319384610127472 : average_alpha_loss=-1513.68331461479
+step = 1112296: AverageReturn = -26027.392578, AverageEpisodeLength = 17476.000000
+step = 1115176: loss = -1516.1069734785292
+average_actor_loss = 1.4914834388014344 : average_critic_loss = 0.10310889803545756 : average_alpha_loss=-1517.7015644497342
+step = 1118056: loss = -1520.0630961524116
+average_actor_loss = 1.4907017002916998 : average_critic_loss = 0.10284524452096472 : average_alpha_loss=-1521.6566421932644
+step = 1118056: AverageReturn = -26037.554688, AverageEpisodeLength = 17476.000000
+step = 1121028: loss = -1524.0812286746614
+average_actor_loss = 1.4911903036635463 : average_critic_loss = 0.1024728541238632 : average_alpha_loss=-1525.6748918453745
+step = 1124004: loss = -1528.1640456414991
+average_actor_loss = 1.4916776566896388 : average_critic_loss = 0.10333679199358949 : average_alpha_loss=-1529.7590593727687
+step = 1124004: AverageReturn = -26050.832031, AverageEpisodeLength = 17476.000000
+step = 1126980: loss = -1532.2517837606451
+average_actor_loss = 1.491691740369925 : average_critic_loss = 0.10249890009772473 : average_alpha_loss=-1533.845973845451
+step = 1129956: loss = -1536.3389731786585
+average_actor_loss = 1.4912868718145995 : average_critic_loss = 0.1026307003252128 : average_alpha_loss=-1537.9328881540607
+step = 1129956: AverageReturn = -26030.128906, AverageEpisodeLength = 17476.000000
+step = 1132836: loss = -1540.3604797363282
+average_actor_loss = 1.4905852132373385 : average_critic_loss = 0.10281919831565271 : average_alpha_loss=-1541.9538840823702
+step = 1135716: loss = -1544.313296339247
+average_actor_loss = 1.4927306699256102 : average_critic_loss = 0.10293533840837578 : average_alpha_loss=-1545.908962419298
+step = 1135716: AverageReturn = -26025.138672, AverageEpisodeLength = 17476.000000
+step = 1138596: loss = -1548.2689328511556
+average_actor_loss = 1.4925657019019127 : average_critic_loss = 0.10254303002471311 : average_alpha_loss=-1549.8640402475992
+step = 1141572: loss = -1552.2893911792387
+average_actor_loss = 1.4928487774825865 : average_critic_loss = 0.10279990972260074 : average_alpha_loss=-1553.885038150254
+step = 1141572: AverageReturn = -26039.873047, AverageEpisodeLength = 17476.000000
+step = 1144452: loss = -1556.3100981818304
+average_actor_loss = 1.493370659980509 : average_critic_loss = 0.10256573615802658 : average_alpha_loss=-1557.9060343424478
+step = 1147332: loss = -1560.2659722222222
+average_actor_loss = 1.4926701694726945 : average_critic_loss = 0.10246932565545043 : average_alpha_loss=-1561.8611125522189
+step = 1147332: AverageReturn = -26137.615234, AverageEpisodeLength = 17476.000000
+step = 1150304: loss = -1564.2832040696894
+average_actor_loss = 1.493385626281415 : average_critic_loss = 0.10277139926191374 : average_alpha_loss=-1565.8793621653663
+step = 1153280: loss = -1568.3680792777768
+average_actor_loss = 1.4929821574559776 : average_critic_loss = 0.10246728131827969 : average_alpha_loss=-1569.9635294842465
+step = 1153280: AverageReturn = -26013.916016, AverageEpisodeLength = 17476.000000
+step = 1156256: loss = -1572.4539163240822
+average_actor_loss = 1.4937843068713141 : average_critic_loss = 0.1027430918803739 : average_alpha_loss=-1574.0504442440565
+step = 1159232: loss = -1576.5413975869455
+average_actor_loss = 1.4936025556056731 : average_critic_loss = 0.10235742600985191 : average_alpha_loss=-1578.1373586347027
+step = 1159232: AverageReturn = -26034.386719, AverageEpisodeLength = 17476.000000
+step = 1162112: loss = -1580.5618221706814
+average_actor_loss = 1.493588785082102 : average_critic_loss = 0.10294380525334014 : average_alpha_loss=-1582.1583543989393
+step = 1165084: loss = -1584.580929249164
+average_actor_loss = 1.4926993331469565 : average_critic_loss = 0.1029760687565619 : average_alpha_loss=-1586.1766040745526
+step = 1165084: AverageReturn = -26038.636719, AverageEpisodeLength = 17476.000000
+step = 1168060: loss = -1588.6642192717522
+average_actor_loss = 1.4934939782946342 : average_critic_loss = 0.10305796047892943 : average_alpha_loss=-1590.2607714745307
+step = 1170940: loss = -1592.6854097154405
+average_actor_loss = 1.4933073171724875 : average_critic_loss = 0.10305081018919332 : average_alpha_loss=-1594.2817681206598
+step = 1170940: AverageReturn = -26053.761719, AverageEpisodeLength = 17476.000000
+step = 1173916: loss = -1596.7048746744792
+average_actor_loss = 1.4947874400243963 : average_critic_loss = 0.10310186316529589 : average_alpha_loss=-1598.302764728505
+step = 1176796: loss = -1600.727032852173
+average_actor_loss = 1.4937704519265227 : average_critic_loss = 0.10295863175092058 : average_alpha_loss=-1602.3237606896294
+step = 1176796: AverageReturn = -26072.734375, AverageEpisodeLength = 17476.000000
+step = 1179772: loss = -1604.7469695306593
+average_actor_loss = 1.4943479943259428 : average_critic_loss = 0.10343739081935216 : average_alpha_loss=-1606.3447569570233
+step = 1182748: loss = -1608.8356459012596
+average_actor_loss = 1.4929855724656453 : average_critic_loss = 0.10303917718720773 : average_alpha_loss=-1610.4316710195233
+step = 1182748: AverageReturn = -26029.632812, AverageEpisodeLength = 17476.000000
+step = 1185628: loss = -1612.8557487911648
+average_actor_loss = 1.4939396912439002 : average_critic_loss = 0.10297991419987132 : average_alpha_loss=-1614.4526676601834
+step = 1188604: loss = -1616.8772263065462
+average_actor_loss = 1.4935258104596087 : average_critic_loss = 0.10291204110078353 : average_alpha_loss=-1618.4736643555343
+step = 1188604: AverageReturn = -26137.812500, AverageEpisodeLength = 17476.000000
+step = 1191580: loss = -1620.963138047085
+average_actor_loss = 1.4941289142094634 : average_critic_loss = 0.10331107740120221 : average_alpha_loss=-1622.5605782539615
+step = 1194556: loss = -1625.0495687915434
+average_actor_loss = 1.4946421297086823 : average_critic_loss = 0.1032810188524465 : average_alpha_loss=-1626.6474923574797
+step = 1194556: AverageReturn = -26062.142578, AverageEpisodeLength = 17476.000000
+step = 1197532: loss = -1629.136382769513
+average_actor_loss = 1.49437248162044 : average_critic_loss = 0.10365088775213208 : average_alpha_loss=-1630.734406460998
+step = 1200412: loss = -1633.1587945302329
+average_actor_loss = 1.4934720448321765 : average_critic_loss = 0.10313572358443505 : average_alpha_loss=-1634.755403221978
+step = 1200412: AverageReturn = -26062.380859, AverageEpisodeLength = 17476.000000
+step = 1203388: loss = -1637.1786052744876
+average_actor_loss = 1.4943384825382182 : average_critic_loss = 0.1034564330688207 : average_alpha_loss=-1638.7763990586805
+step = 1206364: loss = -1641.265038151895
+average_actor_loss = 1.4951037878310809 : average_critic_loss = 0.10317069238242042 : average_alpha_loss=-1642.863312875071
+step = 1206364: AverageReturn = -26076.318359, AverageEpisodeLength = 17476.000000
+step = 1209244: loss = -1645.2853895399305
+average_actor_loss = 1.4951118721730179 : average_critic_loss = 0.10380800808521194 : average_alpha_loss=-1646.8843088361953
+step = 1212220: loss = -1649.3066259814848
+average_actor_loss = 1.4949861843419332 : average_critic_loss = 0.10369393358417657 : average_alpha_loss=-1650.905304898498
+step = 1212220: AverageReturn = -26014.914062, AverageEpisodeLength = 17476.000000
+step = 1215100: loss = -1653.3275887383354
+average_actor_loss = 1.4953886672854424 : average_critic_loss = 0.1033237432414252 : average_alpha_loss=-1654.9263012780084
+step = 1218076: loss = -1657.3485686189385
+average_actor_loss = 1.4951442479286143 : average_critic_loss = 0.10358519586033478 : average_alpha_loss=-1658.9472980294177
+step = 1218076: AverageReturn = -26076.320312, AverageEpisodeLength = 17476.000000
+step = 1221052: loss = -1661.4334878408781
+average_actor_loss = 1.496950038738789 : average_critic_loss = 0.10377329807998913 : average_alpha_loss=-1663.0342121329359
+step = 1223932: loss = -1665.4570986005995
+average_actor_loss = 1.494689593091607 : average_critic_loss = 0.10342020857303093 : average_alpha_loss=-1667.05520807902
+step = 1223932: AverageReturn = -26064.554688, AverageEpisodeLength = 17476.000000
+step = 1226908: loss = -1669.477714825702
+average_actor_loss = 1.494805664304764 : average_critic_loss = 0.10368349137265355 : average_alpha_loss=-1671.0762044434907
+step = 1229884: loss = -1673.5645429959861
+average_actor_loss = 1.4950344972713019 : average_critic_loss = 0.10354215543847331 : average_alpha_loss=-1675.1631191212643
+step = 1229884: AverageReturn = -26050.423828, AverageEpisodeLength = 17476.000000
+step = 1232860: loss = -1677.6514735888409
+average_actor_loss = 1.4951933140876472 : average_critic_loss = 0.10336816587775785 : average_alpha_loss=-1679.2500343732936
+step = 1235740: loss = -1681.672232776218
+average_actor_loss = 1.4953184285925494 : average_critic_loss = 0.10347775488884912 : average_alpha_loss=-1683.271030553182
+step = 1235740: AverageReturn = -26009.378906, AverageEpisodeLength = 17476.000000
+step = 1238620: loss = -1685.6279065450033
+average_actor_loss = 1.494524729044901 : average_critic_loss = 0.10367653466398931 : average_alpha_loss=-1687.2261083390977
+step = 1241596: loss = -1689.6487064156481
+average_actor_loss = 1.494735928232311 : average_critic_loss = 0.1036612473363157 : average_alpha_loss=-1691.2471045217205
+step = 1241596: AverageReturn = -26018.123047, AverageEpisodeLength = 17476.000000
+step = 1244476: loss = -1693.6682349734835
+average_actor_loss = 1.4957899145368072 : average_critic_loss = 0.10407497994860428 : average_alpha_loss=-1695.2681008232964
+step = 1247356: loss = -1697.6240959591337
+average_actor_loss = 1.4954068332496617 : average_critic_loss = 0.10367577154603269 : average_alpha_loss=-1699.2231788635254
+step = 1247356: AverageReturn = -26047.308594, AverageEpisodeLength = 17476.000000
+step = 1250328: loss = -1701.6436148601138
+average_actor_loss = 1.494568980959511 : average_critic_loss = 0.10324378382078651 : average_alpha_loss=-1703.2414284214517
+step = 1253304: loss = -1705.7270596822102
+average_actor_loss = 1.4948588022461502 : average_critic_loss = 0.10367524611603429 : average_alpha_loss=-1707.325595896731
+step = 1253304: AverageReturn = -26125.042969, AverageEpisodeLength = 17476.000000
+step = 1256280: loss = -1709.8138488031202
+average_actor_loss = 1.4951932551639695 : average_critic_loss = 0.10346645519377724 : average_alpha_loss=-1711.412509959231
+step = 1259256: loss = -1713.900368516163
+average_actor_loss = 1.494881739499428 : average_critic_loss = 0.10417377453557747 : average_alpha_loss=-1715.4994241858042
+step = 1259256: AverageReturn = -26045.300781, AverageEpisodeLength = 17476.000000
+step = 1262136: loss = -1717.9221895429823
+average_actor_loss = 1.4945791835172308 : average_critic_loss = 0.10365245118995922 : average_alpha_loss=-1719.5204213036432
+step = 1265112: loss = -1721.943401500743
+average_actor_loss = 1.4941396698836358 : average_critic_loss = 0.10387701818078596 : average_alpha_loss=-1723.541417480797
+step = 1265112: AverageReturn = -26046.578125, AverageEpisodeLength = 17476.000000
+step = 1268088: loss = -1726.029799266528
+average_actor_loss = 1.4947926748584035 : average_critic_loss = 0.10373869924605773 : average_alpha_loss=-1727.6283316253334
+step = 1270968: loss = -1730.0515780131022
+average_actor_loss = 1.49434920731518 : average_critic_loss = 0.1033997423015535 : average_alpha_loss=-1731.6493275112575
+step = 1270968: AverageReturn = -26034.888672, AverageEpisodeLength = 17476.000000
+step = 1273848: loss = -1734.0056160820855
+average_actor_loss = 1.495470123945011 : average_critic_loss = 0.10332014241980182 : average_alpha_loss=-1735.6044060601128
+step = 1276728: loss = -1737.960650422838
+average_actor_loss = 1.495556691288948 : average_critic_loss = 0.10327957730429868 : average_alpha_loss=-1739.5594857957628
+step = 1276728: AverageReturn = -26041.011719, AverageEpisodeLength = 17476.000000
+step = 1279608: loss = -1741.9142246670194
+average_actor_loss = 1.4967596124029823 : average_critic_loss = 0.10358012934577548 : average_alpha_loss=-1743.5145637936062
+step = 1282488: loss = -1745.8711072709825
+average_actor_loss = 1.4954648500929275 : average_critic_loss = 0.10306997540820804 : average_alpha_loss=-1747.4696420881482
+step = 1282488: AverageReturn = -26049.603516, AverageEpisodeLength = 17476.000000
+step = 1285460: loss = -1749.8878457645708
+average_actor_loss = 1.4967424575124102 : average_critic_loss = 0.10330277571046015 : average_alpha_loss=-1751.487891503972
+step = 1288436: loss = -1753.9730174977292
+average_actor_loss = 1.4960692882617956 : average_critic_loss = 0.1029722759004442 : average_alpha_loss=-1755.5720590160738
+step = 1288436: AverageReturn = -26059.351562, AverageEpisodeLength = 17476.000000
+step = 1291412: loss = -1758.060878220425
+average_actor_loss = 1.4950986328304454 : average_critic_loss = 0.10299668747491093 : average_alpha_loss=-1759.6589745142126
+step = 1294388: loss = -1762.1471448918824
+average_actor_loss = 1.4958578538429994 : average_critic_loss = 0.10288661634499427 : average_alpha_loss=-1763.7458889868951
+step = 1294388: AverageReturn = -26079.125000, AverageEpisodeLength = 17476.000000
+step = 1297268: loss = -1766.1675669776068
+average_actor_loss = 1.4961627567393911 : average_critic_loss = 0.10315347927001615 : average_alpha_loss=-1767.7668846554227
+step = 1300244: loss = -1770.1887755855437
+average_actor_loss = 1.4956655638512744 : average_critic_loss = 0.10344042650784456 : average_alpha_loss=-1771.7878808462492
+step = 1300244: AverageReturn = -26057.083984, AverageEpisodeLength = 17476.000000
+step = 1303216: loss = -1774.2725959048778
+average_actor_loss = 1.4958442186041765 : average_critic_loss = 0.10360837435477675 : average_alpha_loss=-1775.8720483382008
+step = 1306096: loss = -1778.290783903334
+average_actor_loss = 1.4963445500781138 : average_critic_loss = 0.10317100923922327 : average_alpha_loss=-1779.8902988433838
+step = 1306096: AverageReturn = -26094.626953, AverageEpisodeLength = 17476.000000
+step = 1309072: loss = -1782.3118912481493
+average_actor_loss = 1.4962350234629647 : average_critic_loss = 0.10316913661306663 : average_alpha_loss=-1783.9112953268072
+step = 1312048: loss = -1786.4001280261625
+average_actor_loss = 1.49525479876226 : average_critic_loss = 0.10282710221876461 : average_alpha_loss=-1787.9982091431978
+step = 1312048: AverageReturn = -26052.789062, AverageEpisodeLength = 17476.000000
+step = 1315024: loss = -1790.4870718268937
+average_actor_loss = 1.4952005660662087 : average_critic_loss = 0.10284975081461892 : average_alpha_loss=-1792.0851233287524
+step = 1318000: loss = -1794.5744644083002
+average_actor_loss = 1.4943683190691857 : average_critic_loss = 0.10320372984404125 : average_alpha_loss=-1796.1720374322706
+step = 1318000: AverageReturn = -26060.542969, AverageEpisodeLength = 17476.000000
+step = 1320976: loss = -1798.6624420330088
+average_actor_loss = 1.4937664687793741 : average_critic_loss = 0.1027409906188647 : average_alpha_loss=-1800.2589514537524
+step = 1323856: loss = -1802.6842459360757
+average_actor_loss = 1.4928142057524787 : average_critic_loss = 0.10288704737193055 : average_alpha_loss=-1804.2799474080405
+step = 1323856: AverageReturn = -26078.156250, AverageEpisodeLength = 17476.000000
+step = 1326832: loss = -1806.7065108104418
+average_actor_loss = 1.4921818511380303 : average_critic_loss = 0.10224917614632235 : average_alpha_loss=-1808.3009436002342
+step = 1329804: loss = -1810.7904986744775
+average_actor_loss = 1.4923222531861604 : average_critic_loss = 0.10229016557426103 : average_alpha_loss=-1812.3851110527685
+step = 1329804: AverageReturn = -26091.761719, AverageEpisodeLength = 17476.000000
+step = 1332780: loss = -1814.8758072391634
+average_actor_loss = 1.4912020428286445 : average_critic_loss = 0.1022699231166713 : average_alpha_loss=-1816.4692785611717
+step = 1335756: loss = -1818.9625506657426
+average_actor_loss = 1.4911716433382163 : average_critic_loss = 0.10246871949313709 : average_alpha_loss=-1820.5561933620002
+step = 1335756: AverageReturn = -26060.306641, AverageEpisodeLength = 17476.000000
+step = 1338728: loss = -1823.0466410455922
+average_actor_loss = 1.4912382519501857 : average_critic_loss = 0.10248216948049546 : average_alpha_loss=-1824.640361061969
+step = 1341704: loss = -1827.129773744973
+average_actor_loss = 1.4924052351264543 : average_critic_loss = 0.10234878878159229 : average_alpha_loss=-1828.7245285690472
+step = 1341704: AverageReturn = -26114.250000, AverageEpisodeLength = 17476.000000
+step = 1344680: loss = -1831.2171410181188
+average_actor_loss = 1.4918971347312133 : average_critic_loss = 0.10240356948587202 : average_alpha_loss=-1832.8114426315472
+step = 1347560: loss = -1835.2388500637478
+average_actor_loss = 1.4912705368879768 : average_critic_loss = 0.1023174594130574 : average_alpha_loss=-1836.8324389139812
+step = 1347560: AverageReturn = -26110.789062, AverageEpisodeLength = 17476.000000
+step = 1350440: loss = -1839.1946975284152
+average_actor_loss = 1.490640541124675 : average_critic_loss = 0.10218112442073309 : average_alpha_loss=-1840.7875179714626
+step = 1353416: loss = -1843.2140444273589
+average_actor_loss = 1.4919767556812173 : average_critic_loss = 0.10249414311731936 : average_alpha_loss=-1844.8085149949598
+step = 1353416: AverageReturn = -26065.160156, AverageEpisodeLength = 17476.000000
+step = 1356392: loss = -1847.3006855954407
+average_actor_loss = 1.492347021537122 : average_critic_loss = 0.10239540499144344 : average_alpha_loss=-1848.8954286882954
+step = 1359368: loss = -1851.388457226497
+average_actor_loss = 1.4914957946667107 : average_critic_loss = 0.10239142310925789 : average_alpha_loss=-1852.9823429148685
+step = 1359368: AverageReturn = -26035.701172, AverageEpisodeLength = 17476.000000
+step = 1362344: loss = -1855.473937455044
+average_actor_loss = 1.4926225702448557 : average_critic_loss = 0.10269690127742867 : average_alpha_loss=-1857.069257059405
+step = 1365224: loss = -1859.4962037404377
+average_actor_loss = 1.4917891952312654 : average_critic_loss = 0.10226062174058623 : average_alpha_loss=-1861.090253109402
+step = 1365224: AverageReturn = -26120.304688, AverageEpisodeLength = 17476.000000
+step = 1368200: loss = -1863.516731918499
+average_actor_loss = 1.4922160997746452 : average_critic_loss = 0.10230218341964628 : average_alpha_loss=-1865.1112493699598
+step = 1371176: loss = -1867.6039642826204
+average_actor_loss = 1.4917652145508797 : average_critic_loss = 0.10243535248352395 : average_alpha_loss=-1869.198163350423
+step = 1371176: AverageReturn = -26096.638672, AverageEpisodeLength = 17476.000000
+step = 1374152: loss = -1871.6907945448352
+average_actor_loss = 1.4919856723438027 : average_critic_loss = 0.10229484830802728 : average_alpha_loss=-1873.2850773308867
+step = 1377032: loss = -1875.712669245402
+average_actor_loss = 1.4915475919428798 : average_critic_loss = 0.10185841459832672 : average_alpha_loss=-1877.306073337131
+step = 1377032: AverageReturn = -26057.000000, AverageEpisodeLength = 17476.000000
+step = 1379912: loss = -1879.6680349561902
+average_actor_loss = 1.491045479517844 : average_critic_loss = 0.10207149521706418 : average_alpha_loss=-1881.261152182685
+step = 1382888: loss = -1883.688538541076
+average_actor_loss = 1.4920776585737865 : average_critic_loss = 0.1015307531887365 : average_alpha_loss=-1885.2821489149524
+step = 1382888: AverageReturn = -26079.041016, AverageEpisodeLength = 17476.000000
+step = 1385864: loss = -1887.776325348885
+average_actor_loss = 1.4910313164995563 : average_critic_loss = 0.10170478450374738 : average_alpha_loss=-1889.3690631415254
+step = 1388840: loss = -1891.863439785537
+average_actor_loss = 1.4907042104550587 : average_critic_loss = 0.10183232854200547 : average_alpha_loss=-1893.455976957916
+step = 1388840: AverageReturn = -26065.605469, AverageEpisodeLength = 17476.000000
+step = 1391816: loss = -1895.9513361941101
+average_actor_loss = 1.4898584435784048 : average_critic_loss = 0.10169591720876915 : average_alpha_loss=-1897.542891184489
+step = 1394792: loss = -1900.0393119729974
+average_actor_loss = 1.4893893763342851 : average_critic_loss = 0.10110433119279082 : average_alpha_loss=-1901.6298054930985
+step = 1394792: AverageReturn = -26038.849609, AverageEpisodeLength = 17476.000000
+step = 1397672: loss = -1904.0595757378471
+average_actor_loss = 1.4901867939780156 : average_critic_loss = 0.10103994027659711 : average_alpha_loss=-1905.6508020189074
+step = 1400552: loss = -1908.0137950897217
+average_actor_loss = 1.4907525734768974 : average_critic_loss = 0.1013331605716505 : average_alpha_loss=-1909.6058802286784
+step = 1400552: AverageReturn = -26065.769531, AverageEpisodeLength = 17476.000000
+step = 1403528: loss = -1912.035303956719
+average_actor_loss = 1.4903227972087039 : average_critic_loss = 0.10125057529457794 : average_alpha_loss=-1913.6268761337444
+step = 1406408: loss = -1916.0570190853543
+average_actor_loss = 1.4898605093359947 : average_critic_loss = 0.10099430796690285 : average_alpha_loss=-1917.6478723737928
+step = 1406408: AverageReturn = -26120.285156, AverageEpisodeLength = 17476.000000
+step = 1409384: loss = -1920.0783072440854
+average_actor_loss = 1.48942592083126 : average_critic_loss = 0.10113433047988883 : average_alpha_loss=-1921.668868567354
+step = 1412264: loss = -1924.0997698465983
+average_actor_loss = 1.4893276390102175 : average_critic_loss = 0.1007687961217016 : average_alpha_loss=-1925.6898651546903
+step = 1412264: AverageReturn = -26204.257812, AverageEpisodeLength = 17476.000000
+step = 1415240: loss = -1928.120622860488
+average_actor_loss = 1.4894782054007694 : average_critic_loss = 0.1007609925112657 : average_alpha_loss=-1929.7108614931824
+step = 1418216: loss = -1932.2081623692666
+average_actor_loss = 1.4887691738624727 : average_critic_loss = 0.10084471864105073 : average_alpha_loss=-1933.7977753916095
+step = 1418216: AverageReturn = -26033.253906, AverageEpisodeLength = 17476.000000
+step = 1421192: loss = -1936.2953277505853
+average_actor_loss = 1.4889439301144691 : average_critic_loss = 0.10041946890233185 : average_alpha_loss=-1937.884689536146
+step = 1424164: loss = -1940.3801159043653
+average_actor_loss = 1.4885640342094375 : average_critic_loss = 0.10017808355531413 : average_alpha_loss=-1941.9688571195743
+step = 1424164: AverageReturn = -26075.203125, AverageEpisodeLength = 17476.000000
+step = 1427136: loss = -1944.4603881014468
+average_actor_loss = 1.4894531349956106 : average_critic_loss = 0.10043762171262446 : average_alpha_loss=-1946.0502790448484
+step = 1430112: loss = -1948.5427958990938
+average_actor_loss = 1.4909113081953218 : average_critic_loss = 0.10073833301993868 : average_alpha_loss=-1950.1344462979225
+step = 1430112: AverageReturn = -26061.488281, AverageEpisodeLength = 17476.000000
+step = 1433084: loss = -1952.6277165162612
+average_actor_loss = 1.4905297554437758 : average_critic_loss = 0.1003675404810729 : average_alpha_loss=-1954.2186140057859
+step = 1436060: loss = -1956.711939657888
+average_actor_loss = 1.4901682928765332 : average_critic_loss = 0.10067518397675006 : average_alpha_loss=-1958.3027816280241
+step = 1436060: AverageReturn = -26200.378906, AverageEpisodeLength = 17476.000000
+step = 1439036: loss = -1960.7980897554787
+average_actor_loss = 1.4910837435514055 : average_critic_loss = 0.10052230647484701 : average_alpha_loss=-1962.3896954854329
+step = 1442012: loss = -1964.8831150506132
+average_actor_loss = 1.4922110027363222 : average_critic_loss = 0.10128362655829919 : average_alpha_loss=-1966.4766095479329
+step = 1442012: AverageReturn = -26018.724609, AverageEpisodeLength = 17476.000000
+step = 1444892: loss = -1968.9042163848876
+average_actor_loss = 1.4921836109624969 : average_critic_loss = 0.10120526727340702 : average_alpha_loss=-1970.497605895996
+step = 1447864: loss = -1972.9226296836885
+average_actor_loss = 1.4927288361625748 : average_critic_loss = 0.10049673893851194 : average_alpha_loss=-1974.5158550524295
+step = 1447864: AverageReturn = -26048.998047, AverageEpisodeLength = 17476.000000
+step = 1450744: loss = -1976.9418165842692
+average_actor_loss = 1.491613324607412 : average_critic_loss = 0.10067482033692714 : average_alpha_loss=-1978.534104792277
+step = 1453720: loss = -1980.9622799863098
+average_actor_loss = 1.4923133834074902 : average_critic_loss = 0.10050806951689063 : average_alpha_loss=-1982.5551007998888
+step = 1453720: AverageReturn = -26034.939453, AverageEpisodeLength = 17476.000000
+step = 1456600: loss = -1984.9830627441406
+average_actor_loss = 1.492081330054336 : average_critic_loss = 0.10095322893984202 : average_alpha_loss=-1986.5760978698731
+step = 1459480: loss = -1988.9382138146295
+average_actor_loss = 1.4926638662815095 : average_critic_loss = 0.10029803414622115 : average_alpha_loss=-1990.5311758677165
+step = 1459480: AverageReturn = -26064.681641, AverageEpisodeLength = 17476.000000
+step = 1462360: loss = -1992.8933270772297
+average_actor_loss = 1.4921194690383144 : average_critic_loss = 0.10080922914979358 : average_alpha_loss=-1994.4862541622585
+step = 1465336: loss = -1996.914991358275
+average_actor_loss = 1.4919319685588601 : average_critic_loss = 0.10032676607220163 : average_alpha_loss=-1998.507250262845
+step = 1465336: AverageReturn = -26031.007812, AverageEpisodeLength = 17476.000000
+step = 1468312: loss = -2001.0022893515966
+average_actor_loss = 1.4917799652984707 : average_critic_loss = 0.10009498178448167 : average_alpha_loss=-2002.5941642022901
+step = 1471192: loss = -2005.0227494133844
+average_actor_loss = 1.4921185843646527 : average_critic_loss = 0.10029544493235233 : average_alpha_loss=-2006.6151622348361
+step = 1471192: AverageReturn = -26164.042969, AverageEpisodeLength = 17476.000000
+step = 1474072: loss = -2008.9776681688097
+average_actor_loss = 1.4923627318193515 : average_critic_loss = 0.1002080145654165 : average_alpha_loss=-2010.5702403174507
+step = 1476952: loss = -2012.9326605902777
+average_actor_loss = 1.4926725706706445 : average_critic_loss = 0.09998494076749517 : average_alpha_loss=-2014.5253185272218
+step = 1476952: AverageReturn = -26075.623047, AverageEpisodeLength = 17476.000000
+step = 1479928: loss = -2016.9538852322487
+average_actor_loss = 1.4923142856487663 : average_critic_loss = 0.10011531711525974 : average_alpha_loss=-2018.5463145676479
+step = 1482808: loss = -2020.973731994629
+average_actor_loss = 1.493605373841193 : average_critic_loss = 0.099972700394897 : average_alpha_loss=-2022.5673107994928
+step = 1482808: AverageReturn = -26120.000000, AverageEpisodeLength = 17476.000000
+step = 1485688: loss = -2024.9279795328775
+average_actor_loss = 1.4939269037710297 : average_critic_loss = 0.10048190178608316 : average_alpha_loss=-2026.5223887973361
+step = 1488568: loss = -2028.8826410929362
+average_actor_loss = 1.4943677029675908 : average_critic_loss = 0.10045791769193278 : average_alpha_loss=-2030.4774669223361
+step = 1488568: AverageReturn = -26172.406250, AverageEpisodeLength = 17476.000000
+step = 1491544: loss = -2032.9044722690378
+average_actor_loss = 1.4939532735014474 : average_critic_loss = 0.10003840664942418 : average_alpha_loss=-2034.4984628820932
+step = 1494520: loss = -2036.9908583856397
+average_actor_loss = 1.4940360437237448 : average_critic_loss = 0.10048202902669467 : average_alpha_loss=-2038.5853771496845
+step = 1494520: AverageReturn = -26049.753906, AverageEpisodeLength = 17476.000000
+step = 1497400: loss = -2041.011046685113
+average_actor_loss = 1.4949356918947565 : average_critic_loss = 0.10039052208109449 : average_alpha_loss=-2042.6063732571072
