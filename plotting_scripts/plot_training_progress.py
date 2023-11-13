@@ -3,12 +3,12 @@ from sqlite3 import Error
 
 import matplotlib.pyplot as plt
 
-#log_file_name = "..\\RL_Training\\CIGRE_MediumVoltage_benchmark\\SoftActorCritic\\Distributed_FullProfile\\results\\train7\\eval_env_log.db"
-#log_file_name = "..\\RL_Training\\CIGRE_MediumVoltage_benchmark\\SoftActorCritic\\FullLoad_GenerationProfiles\\results\\Parametertests\\basic_lossLog\\eval_env_log.db"
-log_file_name = "../RL_Training/CIGRE_MediumVoltage_benchmark/SoftActorCritic/FullLoad_GenerationProfiles/results/Parametertests/actorDistributionNet/eval_env_log.db"
-log_file_name = "../RL_Training/Expanded_Training/Centralized_Regulation/ext_net_changes/eval_env_log.db"
-#log_file_name = "../Trainings/SAC_cigre_pv-wind/results/train4/eval_env_log.db"
-#log_file_name = "../Trainings/SAC_tappos-shiftangle_combined/results/train3/eval_env_log.db"
+
+#This script plots the average absolute voltage deviation over all evaluation episodes of a training
+
+
+log_file_name = "../Centralized_Training/eval_env_log.db"
+
 
 try:
     connection = sqlite3.connect(log_file_name)
@@ -46,12 +46,9 @@ min_average_vm_pu_deviation = 1000
 min_average_vm_pu_deviation_episode = 0
 
 while step != []:
-    #print(step[0][5])
+
     episode_average_vm_pu_deviation += step[0][11]
-    #episode_average_vm_pu_deviation += abs(1.0 - step[0][5])
-    
-    #if(abs(step[0][12]) > 0.01):
-    #    print(step[0])
+
 
     step_counter += 1
     episode_step_counter += 1
@@ -67,14 +64,10 @@ while step != []:
         episode_average_vm_pu_deviation = 0
         episode_step_counter = 0
         
-        
-    #if(step_counter % 2928 == 0):
-    #    print("another episode done")
+
 
     step = get_step(step_counter)
 
-    #if(step_counter > 999997):
-    #    print(step)
 
 print(f"best episode was {min_average_vm_pu_deviation_episode} with {min_average_vm_pu_deviation}")
 
@@ -87,8 +80,8 @@ fig.set_figwidth(9)
 
 ax.plot(average_vm_pu_deviation_per_episode_list)
 
-ax.set_xlabel(r'Episodenzahl', fontsize=10)
-ax.set_ylabel(r'Durchschnittliche absolute Spannungsabweichung in pu', fontsize=10)
+ax.set_xlabel(r'Episode Count', fontsize=10)
+ax.set_ylabel(r'Average absolute voltage deviation in pu', fontsize=10)
 
 plt.xticks(fontsize = 8)
 plt.yticks(fontsize = 8)
@@ -112,18 +105,3 @@ plt.show()
 connection.close()
 
 
-"""if(self._plotting):
-        plt.figure()
-        plt.subplot(311)
-        plt.plot(load_vm_pu_list)
-
-        plt.subplot(312)
-        plt.plot(load_p_list)
-
-        plt.subplot(313)
-        plt.plot(load_q_list)
-        plt.show()
-
-      load_vm_pu_list.clear()
-      load_p_list.clear()
-      load_q_list.clear()"""
