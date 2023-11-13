@@ -5,8 +5,8 @@ import math
 from matplotlib.ticker import PercentFormatter
 import pandas as pd
 
-log_file_name_actor = "newpc_lossLog2_eval_env_log.db"
-log_file_name_ref = "adaptedReward3_eval_env_log.db"
+log_file_name_actor = "centralized_eval_env_log.db"
+log_file_name_ref = "qu_eval_env_log.db"
 
 
 try:
@@ -481,8 +481,8 @@ def load_comparison():
     axs[0].set_title('Zentrale BLB')
     axs[1].set_title('Q(U)-Kennlinie')
 
-    #plt.savefig('verteilung_phi_actor_qu.png', dpi=350)
-    #plt.savefig('verteilung_phi_actor_qu.svg')
+    plt.savefig('verteilung_phi_actor_qu.png', dpi=350)
+    plt.savefig('verteilung_phi_actor_qu.svg')
 
     
     plt.show()

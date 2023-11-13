@@ -11,3 +11,8 @@ To install the required python packages (tensorflow, tf_agents, numba, dm-reverb
 
 # Starting the training
 To start the training, simply go into the training folder for the centralized or decentralized approach and run the main.py file with python3.
+
+#Evaluation
+To evaluate the training you can use the plot_training_progress.py script in the plotting scripts folder. This script creates a plot of the average absolute voltage deviation over all evaluation episodes which should show a good drop and convergence.
+
+The evalation scripts folder contains the script pp_cigre_dist_pv-wind_with_load_profiles_q-characteristic_actor.py to run a trained actor through a full data cycle and write the results into a database. A comparison can be made to a volt-var curve created by pp_cigre_dist_pv-wind_with_load_profiles_q-characteristic_Q(U)_env.py. Use the database_evaluation script to compare the two regulation approaches with each other.
