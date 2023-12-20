@@ -1,5 +1,4 @@
 import os
-import reverb
 import tempfile
 
 import tensorflow as tf
@@ -15,14 +14,15 @@ from tf_agents.policies import greedy_policy
 from tf_agents.policies import py_tf_eager_policy
 from tf_agents.policies import random_py_policy
 from tf_agents.policies import PolicySaver
-from tf_agents.replay_buffers import reverb_replay_buffer
-from tf_agents.replay_buffers import reverb_utils
+from tf_agents.replay_buffers import tf_uniform_replay_buffer
 from tf_agents.train import actor
 from tf_agents.train import learner
 from tf_agents.train import triggers
 from tf_agents.train.utils import spec_utils
 from tf_agents.train.utils import strategy_utils
 from tf_agents.train.utils import train_utils
+from tf_agents.specs import tensor_spec
+from tf_agents.utils.nest_utils import batch_nested_array
 
 import shutil
 
@@ -159,29 +159,15 @@ with strategy.scope():
 ##########################################################
 # Replay Buffer
 ##########################################################
-#not really changed these variables from example, test trainings of different values 2-100 seemed not to make a big difference
-rate_limiter=reverb.rate_limiters.SampleToInsertRatio(samples_per_insert=3.0, min_size_to_sample=3, error_buffer=3.0)
 
-#mainly as in example, just changed remover to Uniform to avoid bad results if the buffer starts deleting the first experiences
-table_name = 'uniform_table'
-table = reverb.Table(
-    table_name,
-    max_size=replay_buffer_capacity,
-    sampler=reverb.selectors.Uniform(),
-    remover=reverb.selectors.Uniform(),
-    rate_limiter=reverb.rate_limiters.MinSize(1))
-
-reverb_server = reverb.Server([table])
-
-reverb_replay = reverb_replay_buffer.ReverbReplayBuffer(
-    tf_agent.collect_data_spec,
-    sequence_length=2,
-    table_name=table_name,
-    local_server=reverb_server)
-
-
-#preftch(tf.data.AUTOTUNE) did not seem to make a runtime improvement
-dataset = reverb_replay.as_dataset(
+replay_buffer = tf_uniform_replay_buffer.TFUniformReplayBuffer(
+    data_spec=tf_agent.collect_data_spec,
+    batch_size=1,
+    max_length=replay_buffer_capacity
+    )
+   
+    
+dataset = replay_buffer.as_dataset(
       sample_batch_size=batch_size, num_steps=2).prefetch(1)
 experience_dataset_fn = lambda: dataset
 
@@ -208,23 +194,20 @@ random_policy = random_py_policy.RandomPyPolicy(
 ##########################################################
 # Actors
 ##########################################################
-rb_observer = reverb_utils.ReverbAddTrajectoryObserver(
-  reverb_replay.py_client,
-  table_name,
-  sequence_length=2,
-  stride_length=1)
 
+replay_observer = lambda x: replay_buffer.add_batch(batch_nested_array(x))
 
 initial_collect_actor = actor.Actor(
   collect_env,
   random_policy,
   train_step,
   steps_per_run=initial_collect_steps,
-  observers=[rb_observer])
+  observers = [replay_observer])
 
 print(f"Initial Collect Actor")
 initial_collect_actor.run()
 print(f"Initial Collect Actor finished")
+
 
 #smaller collect metric, no summary_dir leading to no collect metric both did not make a significant runtime improvement
 env_step_metric = py_metrics.EnvironmentSteps()
@@ -235,7 +218,7 @@ collect_actor = actor.Actor(
   steps_per_run=1,
   metrics=actor.collect_metrics(10),
   summary_dir=os.path.join(tempdir, learner.TRAIN_DIR),
-  observers=[rb_observer, env_step_metric])
+  observers=[replay_observer, env_step_metric])
 
 
 eval_actor = actor.Actor(
@@ -364,9 +347,6 @@ for _ in range(num_iterations):
         saver.save('actor_policy')
         #saver.save_checkpoint('actor_policy_checkpoint')
 
-
-rb_observer.close()
-reverb_server.stop()
 
 shutil.rmtree(eval_save_dir)
 shutil.rmtree(tempdir)

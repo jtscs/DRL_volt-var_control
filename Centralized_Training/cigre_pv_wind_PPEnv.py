@@ -187,7 +187,6 @@ class CigrePPEnv(py_environment.PyEnvironment):
     return self._observation_spec
   
   
-  
   #method to reset environment to default values
   def _reset(self):
     self._state = [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5]
